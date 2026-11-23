@@ -1,6 +1,8 @@
 # Bad Apple!! but every frame is a medical scan
 
-![Frame 2889: two silhouettes matched to the lungs in a coronal CT slice](docs/frame-2889.jpg)
+[![Watch on YouTube: frame 2889, two silhouettes matched to the lungs in a coronal CT slice](docs/video.jpg)](https://www.youtube.com/watch?v=FSPE6NNdRfk)
+
+**[Watch the full video on YouTube](https://www.youtube.com/watch?v=FSPE6NNdRfk)**
 
 Every frame of Bad Apple!! is matched to the closest crop from 250 MRI and CT volumes of 100 people, using de-identified public data: 50 brain MRIs from the IXI dataset (T1, T2, proton density and angiography) and 50 whole-body CTs from TotalSegmentator. CT heads are removed and MRIs are skull-stripped, so no faces can be reconstructed.
 
