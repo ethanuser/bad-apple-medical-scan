@@ -1,0 +1,4759 @@
+{
+ "url": "https://zenodo.org/records/10047292/files/Totalsegmentator_dataset_v201.zip?download=1",
+ "probed": 218,
+ "whole_body": 144,
+ "rows": [
+  {
+   "case": "s0933",
+   "study_type": "ct polytrauma",
+   "shape": [
+    328,
+    268,
+    660
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    492.0,
+    402.0,
+    990.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5380,
+    "femur_left": 16355,
+    "humerus_left": 25269,
+    "skull": 114351,
+    "brain": 58269
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0754",
+   "study_type": "ct polytrauma",
+   "shape": [
+    376,
+    202,
+    649
+   ],
+   "zooms": [
+    1.5000001192092896,
+    1.4999998807907104,
+    1.5
+   ],
+   "extent_mm": [
+    564.0000448226929,
+    302.9999759197235,
+    973.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 9070,
+    "femur_left": 22424,
+    "humerus_left": 20928,
+    "skull": 126756,
+    "brain": 58207
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1045",
+   "study_type": "ct polytrauma",
+   "shape": [
+    299,
+    205,
+    645
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    448.5,
+    307.5,
+    967.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6846,
+    "femur_left": 16555,
+    "humerus_left": 30033,
+    "skull": 57932,
+    "brain": 51404
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0616",
+   "study_type": "ct polytrauma",
+   "shape": [
+    337,
+    261,
+    644
+   ],
+   "zooms": [
+    1.5000001192092896,
+    1.4999998807907104,
+    1.5
+   ],
+   "extent_mm": [
+    505.5000401735306,
+    391.4999688863754,
+    966.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5656,
+    "femur_left": 18800,
+    "humerus_left": 26292,
+    "skull": 124367,
+    "brain": 64092
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0224",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    621
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    931.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 8730,
+    "femur_left": 18108,
+    "humerus_left": 27356,
+    "skull": 121453,
+    "brain": 55843
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1249",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    603
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    904.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5235,
+    "femur_left": 17384,
+    "humerus_left": 24846,
+    "skull": 116009,
+    "brain": 56763
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0986",
+   "study_type": "ct polytrauma",
+   "shape": [
+    331,
+    145,
+    571
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    496.5,
+    217.5,
+    856.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5482,
+    "femur_left": 16872,
+    "humerus_left": 23329,
+    "skull": 50668,
+    "brain": 52049
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1089",
+   "study_type": "ct polytrauma",
+   "shape": [
+    265,
+    265,
+    550
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    397.5,
+    397.5,
+    825.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6976,
+    "femur_left": 17381,
+    "humerus_left": 16842,
+    "skull": 39326,
+    "brain": 4873
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0812",
+   "study_type": "ct polytrauma",
+   "shape": [
+    328,
+    328,
+    549
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    492.0,
+    492.0,
+    823.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6681,
+    "femur_left": 1243,
+    "humerus_left": 20410,
+    "skull": 54649,
+    "brain": 14995
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1369",
+   "study_type": "ct whole body",
+   "shape": [
+    290,
+    290,
+    549
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    435.0,
+    435.0,
+    823.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5755,
+    "femur_left": 7825,
+    "humerus_left": 21152,
+    "skull": 49877,
+    "brain": 50352
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1152",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    548
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    822.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6770,
+    "femur_left": 8179,
+    "humerus_left": 25034,
+    "skull": 112510,
+    "brain": 15775
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1397",
+   "study_type": "ct whole body",
+   "shape": [
+    320,
+    320,
+    547
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    480.0,
+    480.0,
+    820.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 8154,
+    "femur_left": 15634,
+    "humerus_left": 20599,
+    "skull": 63330,
+    "brain": 21547
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1304",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    546
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    819.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6495,
+    "femur_left": 1139,
+    "humerus_left": 29815,
+    "skull": 129539,
+    "brain": 65489
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1314",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    546
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    819.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4893,
+    "femur_left": 6125,
+    "humerus_left": 20697,
+    "skull": 106326,
+    "brain": 16546
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1029",
+   "study_type": "ct polytrauma",
+   "shape": [
+    321,
+    321,
+    545
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    481.5,
+    481.5,
+    817.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3271,
+    "femur_left": 2919,
+    "humerus_left": 31227,
+    "skull": 48959,
+    "brain": 54076
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1123",
+   "study_type": "ct polytrauma",
+   "shape": [
+    291,
+    291,
+    545
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    436.5,
+    436.5,
+    817.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6873,
+    "femur_left": 804,
+    "humerus_left": 19242,
+    "skull": 63463,
+    "brain": 804
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1088",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    544
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    816.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 7914,
+    "femur_left": 2283,
+    "humerus_left": 23849,
+    "skull": 115133,
+    "brain": 58584
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1161",
+   "study_type": "ct polytrauma",
+   "shape": [
+    313,
+    313,
+    544
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    469.5,
+    469.5,
+    816.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 7185,
+    "femur_left": 2362,
+    "humerus_left": 18154,
+    "skull": 108855,
+    "brain": 56202
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1171",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    544
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    816.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6870,
+    "femur_left": 985,
+    "humerus_left": 30005,
+    "skull": 118486,
+    "brain": 61511
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1380",
+   "study_type": "ct whole body",
+   "shape": [
+    320,
+    320,
+    543
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    480.0,
+    480.0,
+    814.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5849,
+    "femur_left": 14624,
+    "humerus_left": 21173,
+    "skull": 112279,
+    "brain": 54688
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1082",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    542
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    813.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 2722,
+    "femur_left": 987,
+    "humerus_left": 29876,
+    "skull": 120161,
+    "brain": 58562
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1321",
+   "study_type": "ct polytrauma",
+   "shape": [
+    275,
+    275,
+    540
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    412.5,
+    412.5,
+    810.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5811,
+    "femur_left": 1480,
+    "humerus_left": 23817,
+    "skull": 111976,
+    "brain": 53227
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1350",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    539
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    808.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4902,
+    "femur_left": 6848,
+    "humerus_left": 23875,
+    "skull": 110613,
+    "brain": 970
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0690",
+   "study_type": "ct polytrauma",
+   "shape": [
+    281,
+    162,
+    538
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    421.5,
+    243.0,
+    807.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5062,
+    "femur_left": 13503,
+    "humerus_left": 14558,
+    "skull": 88684,
+    "brain": 12364
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0790",
+   "study_type": "ct polytrauma",
+   "shape": [
+    291,
+    291,
+    538
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    436.5,
+    436.5,
+    807.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4363,
+    "femur_left": 5557,
+    "humerus_left": 11686,
+    "skull": 106263,
+    "brain": 52045
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1206",
+   "study_type": "ct polytrauma",
+   "shape": [
+    279,
+    279,
+    538
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    418.5,
+    418.5,
+    807.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6111,
+    "femur_left": 5590,
+    "humerus_left": 14489,
+    "skull": 57645,
+    "brain": 53205
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1159",
+   "study_type": "ct polytrauma",
+   "shape": [
+    329,
+    329,
+    537
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    493.5,
+    493.5,
+    805.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 2629,
+    "femur_left": 3708,
+    "humerus_left": 19091,
+    "skull": 93191,
+    "brain": 13450
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0777",
+   "study_type": "ct polytrauma",
+   "shape": [
+    305,
+    305,
+    536
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    457.5,
+    457.5,
+    804.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6656,
+    "femur_left": 2448,
+    "humerus_left": 17730,
+    "skull": 116450,
+    "brain": 23258
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1124",
+   "study_type": "ct polytrauma",
+   "shape": [
+    267,
+    267,
+    536
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    400.5,
+    400.5,
+    804.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5779,
+    "femur_left": 13464,
+    "humerus_left": 24924,
+    "skull": 42651,
+    "brain": 8543
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0591",
+   "study_type": "ct polytrauma",
+   "shape": [
+    275,
+    275,
+    531
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    412.5,
+    412.5,
+    796.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5891,
+    "femur_left": 2913,
+    "humerus_left": 11308,
+    "skull": 113447,
+    "brain": 55666
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0751",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    292,
+    192,
+    527
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5000001192092896
+   ],
+   "extent_mm": [
+    438.0,
+    288.0,
+    790.5000628232956
+   ],
+   "seg_bytes": {
+    "clavicula_left": 7565,
+    "femur_left": 16402,
+    "humerus_left": 15229,
+    "skull": 20829,
+    "brain": 677
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0727",
+   "study_type": "ct polytrauma",
+   "shape": [
+    247,
+    247,
+    525
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    370.5,
+    370.5,
+    787.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5432,
+    "femur_left": 7966,
+    "humerus_left": 19883,
+    "skull": 93264,
+    "brain": 15237
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1371",
+   "study_type": "ct whole body",
+   "shape": [
+    333,
+    333,
+    525
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    787.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 1960,
+    "femur_left": 33399,
+    "humerus_left": 1607,
+    "skull": 1781,
+    "brain": 951
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1388",
+   "study_type": "ct whole body",
+   "shape": [
+    316,
+    316,
+    525
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    474.0,
+    474.0,
+    787.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 2556,
+    "femur_left": 4911,
+    "humerus_left": 19475,
+    "skull": 54134,
+    "brain": 59312
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1384",
+   "study_type": "ct whole body",
+   "shape": [
+    329,
+    329,
+    523
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    493.5,
+    493.5,
+    784.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 2828,
+    "femur_left": 939,
+    "humerus_left": 25036,
+    "skull": 48004,
+    "brain": 52457
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0927",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    519
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    778.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5522,
+    "femur_left": 11138,
+    "humerus_left": 24195,
+    "skull": 108778,
+    "brain": 47521
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1349",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    255,
+    255,
+    517
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    382.5,
+    382.5,
+    775.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 7124,
+    "femur_left": 15666,
+    "humerus_left": 13585,
+    "skull": 15878,
+    "brain": 908
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0763",
+   "study_type": "ct polytrauma",
+   "shape": [
+    292,
+    292,
+    514
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    438.0,
+    438.0,
+    771.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5721,
+    "femur_left": 15627,
+    "humerus_left": 17422,
+    "skull": 38222,
+    "brain": 5422
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0970",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    511
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    766.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5810,
+    "femur_left": 936,
+    "humerus_left": 23359,
+    "skull": 57326,
+    "brain": 936
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1334",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    221,
+    221,
+    510
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    331.5,
+    331.5,
+    765.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6305,
+    "femur_left": 17812,
+    "humerus_left": 7742,
+    "skull": 3507,
+    "brain": 552
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": false
+   }
+  },
+  {
+   "case": "s0923",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    281,
+    281,
+    500
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    421.5,
+    421.5,
+    750.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4710,
+    "femur_left": 11922,
+    "humerus_left": 9781,
+    "skull": 20209,
+    "brain": 1546
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0467",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    320,
+    320,
+    495
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    480.0,
+    480.0,
+    742.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 7595,
+    "femur_left": 16381,
+    "humerus_left": 11128,
+    "skull": 13327,
+    "brain": 967
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0657",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    297,
+    297,
+    488
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    445.5,
+    445.5,
+    732.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6253,
+    "femur_left": 18531,
+    "humerus_left": 2890,
+    "skull": 775,
+    "brain": 789
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0556",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    484
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    726.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 7194,
+    "femur_left": 893,
+    "humerus_left": 30461,
+    "skull": 117234,
+    "brain": 59762
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0931",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    245,
+    187,
+    479
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    367.5,
+    280.5,
+    718.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6237,
+    "femur_left": 16607,
+    "humerus_left": 6840,
+    "skull": 4536,
+    "brain": 594
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1143",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    266,
+    266,
+    479
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    399.0,
+    399.0,
+    718.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6314,
+    "femur_left": 19126,
+    "humerus_left": 6721,
+    "skull": 672,
+    "brain": 685
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1062",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    236,
+    236,
+    477
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    354.0,
+    354.0,
+    715.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6099,
+    "femur_left": 16355,
+    "humerus_left": 10779,
+    "skull": 6207,
+    "brain": 584
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1016",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    471
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    706.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5340,
+    "femur_left": 22838,
+    "humerus_left": 29125,
+    "skull": 887,
+    "brain": 902
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0334",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    291,
+    291,
+    469
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    436.5,
+    436.5,
+    703.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 8144,
+    "femur_left": 14268,
+    "humerus_left": 13954,
+    "skull": 735,
+    "brain": 750
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0804",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    236,
+    236,
+    467
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    354.0,
+    354.0,
+    700.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5101,
+    "femur_left": 13098,
+    "humerus_left": 7231,
+    "skull": 5113,
+    "brain": 574
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0511",
+   "study_type": "ct polytrauma",
+   "shape": [
+    284,
+    284,
+    465
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    426.0,
+    426.0,
+    697.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5806,
+    "femur_left": 697,
+    "humerus_left": 18283,
+    "skull": 108672,
+    "brain": 51767
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0913",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    289,
+    289,
+    465
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    433.5,
+    433.5,
+    697.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5192,
+    "femur_left": 15368,
+    "humerus_left": 4089,
+    "skull": 720,
+    "brain": 734
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0476",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    283,
+    283,
+    463
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    424.5,
+    424.5,
+    694.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4535,
+    "femur_left": 15052,
+    "humerus_left": 4651,
+    "skull": 689,
+    "brain": 704
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0550",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    294,
+    294,
+    462
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    441.0,
+    441.0,
+    693.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6676,
+    "femur_left": 18247,
+    "humerus_left": 7866,
+    "skull": 2016,
+    "brain": 749
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0869",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    261,
+    261,
+    459
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    391.5,
+    391.5,
+    688.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4327,
+    "femur_left": 17322,
+    "humerus_left": 3336,
+    "skull": 620,
+    "brain": 635
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0918",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    252,
+    252,
+    459
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    378.0,
+    378.0,
+    688.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5511,
+    "femur_left": 17091,
+    "humerus_left": 7300,
+    "skull": 587,
+    "brain": 599
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0667",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    295,
+    295,
+    454
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    442.5,
+    442.5,
+    681.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6218,
+    "femur_left": 19605,
+    "humerus_left": 12279,
+    "skull": 734,
+    "brain": 749
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0912",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    272,
+    272,
+    451
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    408.0,
+    408.0,
+    676.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4911,
+    "femur_left": 19963,
+    "humerus_left": 4015,
+    "skull": 644,
+    "brain": 645
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0692",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    333,
+    333,
+    449
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    673.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5742,
+    "femur_left": 15795,
+    "humerus_left": 4558,
+    "skull": 3352,
+    "brain": 865
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0860",
+   "study_type": "ct polytrauma",
+   "shape": [
+    332,
+    207,
+    449
+   ],
+   "zooms": [
+    1.4999998807907104,
+    1.4999998807907104,
+    1.5
+   ],
+   "extent_mm": [
+    497.99996042251587,
+    310.49997532367706,
+    673.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5365,
+    "femur_left": 17432,
+    "humerus_left": 26970,
+    "skull": 660,
+    "brain": 665
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1208",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    221,
+    221,
+    448
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    331.5,
+    331.5,
+    672.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5847,
+    "femur_left": 11924,
+    "humerus_left": 8234,
+    "skull": 5083,
+    "brain": 528
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": false
+   }
+  },
+  {
+   "case": "s0145",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    222,
+    219,
+    447
+   ],
+   "zooms": [
+    1.4999998807907104,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    332.9999735355377,
+    328.5,
+    670.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3189,
+    "femur_left": 15805,
+    "humerus_left": 2716,
+    "skull": 554,
+    "brain": 569
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": false,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0461",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    269,
+    269,
+    447
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    403.5,
+    403.5,
+    670.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5214,
+    "femur_left": 14435,
+    "humerus_left": 7095,
+    "skull": 2626,
+    "brain": 640
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0720",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    307,
+    307,
+    445
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    460.5,
+    460.5,
+    667.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 2034,
+    "femur_left": 13614,
+    "humerus_left": 3060,
+    "skull": 371,
+    "brain": 749
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": false,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0894",
+   "study_type": "ct polytrauma",
+   "shape": [
+    269,
+    269,
+    445
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    403.5,
+    403.5,
+    667.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5869,
+    "femur_left": 15836,
+    "humerus_left": 13834,
+    "skull": 639,
+    "brain": 652
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0669",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    299,
+    299,
+    443
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    448.5,
+    448.5,
+    664.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6907,
+    "femur_left": 16745,
+    "humerus_left": 6541,
+    "skull": 732,
+    "brain": 746
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1085",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    236,
+    236,
+    443
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    354.0,
+    354.0,
+    664.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4153,
+    "femur_left": 15840,
+    "humerus_left": 3911,
+    "skull": 536,
+    "brain": 550
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": false,
+    "brain": false
+   }
+  },
+  {
+   "case": "s1086",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    271,
+    271,
+    443
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    406.5,
+    406.5,
+    664.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 2451,
+    "femur_left": 16586,
+    "humerus_left": 9114,
+    "skull": 791,
+    "brain": 638
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0623",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    243,
+    243,
+    442
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    364.5,
+    364.5,
+    663.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5904,
+    "femur_left": 19736,
+    "humerus_left": 5847,
+    "skull": 630,
+    "brain": 581
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0423",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    272,
+    272,
+    441
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    408.0,
+    408.0,
+    661.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4817,
+    "femur_left": 19856,
+    "humerus_left": 5402,
+    "skull": 1019,
+    "brain": 654
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0507",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    252,
+    252,
+    441
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    378.0,
+    378.0,
+    661.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4918,
+    "femur_left": 16564,
+    "humerus_left": 4556,
+    "skull": 681,
+    "brain": 596
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0574",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    251,
+    251,
+    441
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    376.5,
+    376.5,
+    661.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5246,
+    "femur_left": 17150,
+    "humerus_left": 5077,
+    "skull": 581,
+    "brain": 595
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1038",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    244,
+    157,
+    440
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5000001192092896
+   ],
+   "extent_mm": [
+    366.0,
+    235.5,
+    660.0000524520874
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5742,
+    "femur_left": 13111,
+    "humerus_left": 6039,
+    "skull": 507,
+    "brain": 516
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": false,
+    "brain": false
+   }
+  },
+  {
+   "case": "s0163",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    291,
+    291,
+    440
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    436.5,
+    436.5,
+    660.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4724,
+    "femur_left": 14080,
+    "humerus_left": 3488,
+    "skull": 693,
+    "brain": 706
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0830",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    248,
+    248,
+    440
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    372.0,
+    372.0,
+    660.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6119,
+    "femur_left": 17141,
+    "humerus_left": 8624,
+    "skull": 580,
+    "brain": 593
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1287",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    239,
+    239,
+    440
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    358.5,
+    358.5,
+    660.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4549,
+    "femur_left": 16041,
+    "humerus_left": 4371,
+    "skull": 537,
+    "brain": 537
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": false,
+    "brain": false
+   }
+  },
+  {
+   "case": "s0369",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    248,
+    248,
+    439
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    372.0,
+    372.0,
+    658.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3761,
+    "femur_left": 14663,
+    "humerus_left": 4307,
+    "skull": 571,
+    "brain": 584
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0940",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    231,
+    231,
+    439
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    346.5,
+    346.5,
+    658.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5920,
+    "femur_left": 15659,
+    "humerus_left": 5607,
+    "skull": 534,
+    "brain": 548
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": false,
+    "brain": false
+   }
+  },
+  {
+   "case": "s1297",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    247,
+    247,
+    439
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    370.5,
+    370.5,
+    658.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4380,
+    "femur_left": 17517,
+    "humerus_left": 6387,
+    "skull": 574,
+    "brain": 587
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1344",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    212,
+    183,
+    438
+   ],
+   "zooms": [
+    1.5,
+    1.4999998807907104,
+    1.5000001192092896
+   ],
+   "extent_mm": [
+    318.0,
+    274.4999781847,
+    657.0000522136688
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4555,
+    "femur_left": 11941,
+    "humerus_left": 6131,
+    "skull": 5964,
+    "brain": 536
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": false
+   }
+  },
+  {
+   "case": "s0091",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    312,
+    312,
+    437
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    468.0,
+    468.0,
+    655.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4641,
+    "femur_left": 17450,
+    "humerus_left": 3441,
+    "skull": 1282,
+    "brain": 775
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0957",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    248,
+    248,
+    437
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    372.0,
+    372.0,
+    655.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4513,
+    "femur_left": 16301,
+    "humerus_left": 5750,
+    "skull": 572,
+    "brain": 585
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0863",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    263,
+    263,
+    435
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    394.5,
+    394.5,
+    652.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4735,
+    "femur_left": 14196,
+    "humerus_left": 6639,
+    "skull": 840,
+    "brain": 635
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0733",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    283,
+    283,
+    434
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    424.5,
+    424.5,
+    651.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5175,
+    "femur_left": 15871,
+    "humerus_left": 3930,
+    "skull": 679,
+    "brain": 691
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0924",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    287,
+    287,
+    434
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    430.5,
+    430.5,
+    651.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4408,
+    "femur_left": 13272,
+    "humerus_left": 3702,
+    "skull": 677,
+    "brain": 691
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0797",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    264,
+    264,
+    433
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    396.0,
+    396.0,
+    649.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4688,
+    "femur_left": 13747,
+    "humerus_left": 5030,
+    "skull": 619,
+    "brain": 631
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1178",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    333,
+    333,
+    433
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    649.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 7067,
+    "femur_left": 13269,
+    "humerus_left": 22982,
+    "skull": 51246,
+    "brain": 6728
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0011",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    311,
+    311,
+    431
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    466.5,
+    466.5,
+    646.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6813,
+    "femur_left": 13301,
+    "humerus_left": 7212,
+    "skull": 427,
+    "brain": 740
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": false,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0412",
+   "study_type": "ct polytrauma",
+   "shape": [
+    313,
+    313,
+    431
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    469.5,
+    469.5,
+    646.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6208,
+    "femur_left": 746,
+    "humerus_left": 27942,
+    "skull": 116982,
+    "brain": 62084
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0896",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    261,
+    261,
+    431
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    391.5,
+    391.5,
+    646.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4146,
+    "femur_left": 10160,
+    "humerus_left": 4821,
+    "skull": 584,
+    "brain": 599
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1247",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    259,
+    259,
+    431
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    388.5,
+    388.5,
+    646.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4417,
+    "femur_left": 12789,
+    "humerus_left": 5684,
+    "skull": 594,
+    "brain": 605
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0086",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    273,
+    430,
+    430
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    409.5,
+    645.0,
+    645.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5742,
+    "femur_left": 15359,
+    "humerus_left": 7721,
+    "skull": 2868,
+    "brain": 889
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0327",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    222,
+    166,
+    429
+   ],
+   "zooms": [
+    1.5000001192092896,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    333.0000264644623,
+    249.0,
+    643.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4231,
+    "femur_left": 15032,
+    "humerus_left": 7222,
+    "skull": 4251,
+    "brain": 474
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": false
+   }
+  },
+  {
+   "case": "s0878",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    274,
+    274,
+    427
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    411.0,
+    411.0,
+    640.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5172,
+    "femur_left": 14163,
+    "humerus_left": 5752,
+    "skull": 641,
+    "brain": 641
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0903",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    427
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    640.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6211,
+    "femur_left": 8177,
+    "humerus_left": 7970,
+    "skull": 5765,
+    "brain": 824
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0994",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    245,
+    245,
+    427
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    367.5,
+    367.5,
+    640.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4722,
+    "femur_left": 18036,
+    "humerus_left": 5341,
+    "skull": 568,
+    "brain": 582
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1099",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    285,
+    285,
+    427
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    427.5,
+    427.5,
+    640.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4046,
+    "femur_left": 11309,
+    "humerus_left": 3517,
+    "skull": 671,
+    "brain": 686
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0536",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    269,
+    269,
+    426
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    403.5,
+    403.5,
+    639.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3780,
+    "femur_left": 16576,
+    "humerus_left": 3615,
+    "skull": 625,
+    "brain": 636
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0593",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    299,
+    299,
+    426
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    448.5,
+    448.5,
+    639.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4910,
+    "femur_left": 12704,
+    "humerus_left": 4758,
+    "skull": 748,
+    "brain": 729
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0639",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    313,
+    208,
+    425
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    469.5,
+    312.0,
+    637.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5081,
+    "femur_left": 13656,
+    "humerus_left": 5349,
+    "skull": 1319,
+    "brain": 616
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0260",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    366,
+    424,
+    283
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    549.0,
+    636.0,
+    424.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 828,
+    "femur_left": 15890,
+    "humerus_left": 812,
+    "skull": 812,
+    "brain": 818
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0625",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    263,
+    198,
+    423
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    394.5,
+    297.0,
+    634.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3361,
+    "femur_left": 11419,
+    "humerus_left": 1040,
+    "skull": 578,
+    "brain": 587
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0662",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    267,
+    267,
+    419
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    400.5,
+    400.5,
+    628.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5080,
+    "femur_left": 14509,
+    "humerus_left": 4644,
+    "skull": 616,
+    "brain": 631
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0835",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    264,
+    264,
+    419
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    396.0,
+    396.0,
+    628.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4124,
+    "femur_left": 11727,
+    "humerus_left": 5453,
+    "skull": 589,
+    "brain": 603
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1031",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    287,
+    287,
+    419
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    430.5,
+    430.5,
+    628.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4103,
+    "femur_left": 14531,
+    "humerus_left": 3509,
+    "skull": 676,
+    "brain": 690
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0362",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    285,
+    285,
+    418
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    427.5,
+    427.5,
+    627.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5491,
+    "femur_left": 17602,
+    "humerus_left": 4572,
+    "skull": 673,
+    "brain": 687
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0663",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    255,
+    255,
+    418
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    382.5,
+    382.5,
+    627.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3960,
+    "femur_left": 13767,
+    "humerus_left": 2996,
+    "skull": 576,
+    "brain": 588
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0613",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    272,
+    272,
+    417
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    408.0,
+    408.0,
+    625.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 2750,
+    "femur_left": 15781,
+    "humerus_left": 2212,
+    "skull": 1110,
+    "brain": 626
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1336",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    285,
+    285,
+    416
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    427.5,
+    427.5,
+    624.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3927,
+    "femur_left": 14760,
+    "humerus_left": 3387,
+    "skull": 650,
+    "brain": 650
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0561",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    243,
+    155,
+    415
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    364.5,
+    232.5,
+    622.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 2666,
+    "femur_left": 14464,
+    "humerus_left": 1765,
+    "skull": 689,
+    "brain": 464
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": false
+   }
+  },
+  {
+   "case": "s0723",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    222,
+    187,
+    415
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    333.0,
+    280.5,
+    622.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4136,
+    "femur_left": 11810,
+    "humerus_left": 5229,
+    "skull": 2448,
+    "brain": 480
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": false
+   }
+  },
+  {
+   "case": "s1145",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    220,
+    220,
+    415
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    330.0,
+    330.0,
+    622.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3877,
+    "femur_left": 12820,
+    "humerus_left": 3362,
+    "skull": 487,
+    "brain": 501
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": false,
+    "brain": false
+   }
+  },
+  {
+   "case": "s0992",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    250,
+    250,
+    413
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    375.0,
+    375.0,
+    619.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4271,
+    "femur_left": 11815,
+    "humerus_left": 5513,
+    "skull": 568,
+    "brain": 581
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0612",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    272,
+    272,
+    411
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    408.0,
+    408.0,
+    616.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4306,
+    "femur_left": 15227,
+    "humerus_left": 6700,
+    "skull": 1189,
+    "brain": 630
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1276",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    240,
+    221,
+    411
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    360.0,
+    331.5,
+    616.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3337,
+    "femur_left": 12071,
+    "humerus_left": 2796,
+    "skull": 568,
+    "brain": 586
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0587",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    300,
+    300,
+    410
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    450.0,
+    450.0,
+    615.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4608,
+    "femur_left": 16092,
+    "humerus_left": 11664,
+    "skull": 4638,
+    "brain": 706
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0796",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    281,
+    281,
+    410
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    421.5,
+    421.5,
+    615.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5016,
+    "femur_left": 15982,
+    "humerus_left": 4680,
+    "skull": 637,
+    "brain": 650
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0065",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    243,
+    243,
+    409
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    364.5,
+    364.5,
+    613.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 6021,
+    "femur_left": 13931,
+    "humerus_left": 7660,
+    "skull": 535,
+    "brain": 550
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": false,
+    "brain": false
+   }
+  },
+  {
+   "case": "s1127",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    275,
+    275,
+    409
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    412.5,
+    412.5,
+    613.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5116,
+    "femur_left": 10318,
+    "humerus_left": 4204,
+    "skull": 620,
+    "brain": 621
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0686",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    265,
+    265,
+    407
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    397.5,
+    397.5,
+    610.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3988,
+    "femur_left": 15699,
+    "humerus_left": 3442,
+    "skull": 593,
+    "brain": 605
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0141",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    406,
+    168,
+    406
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    609.0,
+    252.0,
+    609.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5951,
+    "femur_left": 15831,
+    "humerus_left": 7501,
+    "skull": 2099,
+    "brain": 609
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0764",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    291,
+    291,
+    405
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    436.5,
+    436.5,
+    607.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5292,
+    "femur_left": 14661,
+    "humerus_left": 5586,
+    "skull": 873,
+    "brain": 688
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0477",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    243,
+    243,
+    404
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    364.5,
+    364.5,
+    606.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3258,
+    "femur_left": 12418,
+    "humerus_left": 3249,
+    "skull": 1874,
+    "brain": 528
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": false
+   }
+  },
+  {
+   "case": "s0708",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    235,
+    235,
+    404
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    352.5,
+    352.5,
+    606.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3463,
+    "femur_left": 9802,
+    "humerus_left": 3065,
+    "skull": 518,
+    "brain": 531
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": false,
+    "brain": false
+   }
+  },
+  {
+   "case": "s0592",
+   "study_type": "ct polytrauma",
+   "shape": [
+    319,
+    319,
+    403
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    478.5,
+    478.5,
+    604.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5117,
+    "femur_left": 13188,
+    "humerus_left": 19020,
+    "skull": 4841,
+    "brain": 756
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0648",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    272,
+    198,
+    401
+   ],
+   "zooms": [
+    1.5000001192092896,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    408.00003242492676,
+    297.0,
+    601.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4065,
+    "femur_left": 14304,
+    "humerus_left": 6445,
+    "skull": 3257,
+    "brain": 556
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": false
+   }
+  },
+  {
+   "case": "s1283",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    283,
+    283,
+    397
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    424.5,
+    424.5,
+    595.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 2231,
+    "femur_left": 12427,
+    "humerus_left": 1707,
+    "skull": 639,
+    "brain": 652
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0670",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    228,
+    228,
+    396
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    342.0,
+    342.0,
+    594.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3654,
+    "femur_left": 12935,
+    "humerus_left": 4076,
+    "skull": 488,
+    "brain": 503
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": false,
+    "brain": false
+   }
+  },
+  {
+   "case": "s0028",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    299,
+    299,
+    394
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    448.5,
+    448.5,
+    591.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4155,
+    "femur_left": 10441,
+    "humerus_left": 4735,
+    "skull": 1477,
+    "brain": 686
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0408",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    279,
+    279,
+    391
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    418.5,
+    418.5,
+    586.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 2995,
+    "femur_left": 15277,
+    "humerus_left": 2979,
+    "skull": 627,
+    "brain": 642
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0456",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    265,
+    265,
+    390
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    397.5,
+    397.5,
+    585.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 5011,
+    "femur_left": 12160,
+    "humerus_left": 7521,
+    "skull": 5398,
+    "brain": 593
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0661",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    252,
+    252,
+    390
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    378.0,
+    378.0,
+    585.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4096,
+    "femur_left": 12857,
+    "humerus_left": 4303,
+    "skull": 2317,
+    "brain": 553
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": false
+   }
+  },
+  {
+   "case": "s0644",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    272,
+    272,
+    389
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    408.0,
+    408.0,
+    583.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4215,
+    "femur_left": 11618,
+    "humerus_left": 4606,
+    "skull": 2562,
+    "brain": 603
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0985",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    248,
+    248,
+    389
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    372.0,
+    372.0,
+    583.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 3094,
+    "femur_left": 11642,
+    "humerus_left": 3900,
+    "skull": 533,
+    "brain": 545
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": false,
+    "brain": false
+   }
+  },
+  {
+   "case": "s0806",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    306,
+    255,
+    387
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    459.0,
+    382.5,
+    580.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 705,
+    "femur_left": 19953,
+    "humerus_left": 680,
+    "skull": 680,
+    "brain": 694
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0196",
+   "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+   "shape": [
+    295,
+    295,
+    367
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    442.5,
+    442.5,
+    550.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4632,
+    "femur_left": 9068,
+    "humerus_left": 7095,
+    "skull": 7264,
+    "brain": 650
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0500",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    307,
+    307,
+    354
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    460.5,
+    460.5,
+    531.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 666,
+    "femur_left": 16128,
+    "humerus_left": 643,
+    "skull": 643,
+    "brain": 655
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0551",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    233,
+    233,
+    352
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    349.5,
+    349.5,
+    528.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 4760,
+    "femur_left": 10840,
+    "humerus_left": 4076,
+    "skull": 477,
+    "brain": 491
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": false,
+    "brain": false
+   }
+  },
+  {
+   "case": "s1413",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    333,
+    333,
+    347
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    520.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 723,
+    "femur_left": 14478,
+    "humerus_left": 13207,
+    "skull": 723,
+    "brain": 723
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s1366",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    336
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    504.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 714,
+    "femur_left": 16451,
+    "humerus_left": 5128,
+    "skull": 689,
+    "brain": 689
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0988",
+   "study_type": "ct polytrauma",
+   "shape": [
+    333,
+    333,
+    273
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    499.5,
+    499.5,
+    409.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 621,
+    "femur_left": 20720,
+    "humerus_left": 599,
+    "skull": 599,
+    "brain": 611
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0691",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    329,
+    329,
+    280
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    493.5,
+    493.5,
+    420.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 8288,
+    "femur_left": 621,
+    "humerus_left": 18069,
+    "skull": 52986,
+    "brain": 17826
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0250",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    307,
+    307,
+    301
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    460.5,
+    460.5,
+    451.5
+   ],
+   "seg_bytes": {
+    "clavicula_left": 614,
+    "femur_left": 15308,
+    "humerus_left": 590,
+    "skull": 590,
+    "brain": 590
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": true,
+    "skull": true,
+    "brain": true
+   }
+  },
+  {
+   "case": "s0248",
+   "study_type": "ct neck-thorax-abdomen-pelvis",
+   "shape": [
+    299,
+    299,
+    280
+   ],
+   "zooms": [
+    1.5,
+    1.5,
+    1.5
+   ],
+   "extent_mm": [
+    448.5,
+    448.5,
+    420.0
+   ],
+   "seg_bytes": {
+    "clavicula_left": 559,
+    "femur_left": 12298,
+    "humerus_left": 539,
+    "skull": 539,
+    "brain": 550
+   },
+   "has": {
+    "clavicula_left": true,
+    "femur_left": true,
+    "humerus_left": false,
+    "skull": false,
+    "brain": false
+   }
+  }
+ ]
+}

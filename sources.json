@@ -1,0 +1,3816 @@
+{
+  "edition": "SynthStrip v1.5 / IXI T1, T2, PD and MRA",
+  "ixi": "https://brain-development.org/ixi-dataset/",
+  "distribution": "https://surfer.nmr.mgh.harvard.edu/docs/synthstrip/data/README",
+  "mirror_commit": "d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3",
+  "video": {
+    "url": "https://raw.githubusercontent.com/bad-apple-lab/Bad-Apple/80e39ed58d754e4de420b7a1c474e53e20a71ba3/badapple.mp4",
+    "sha256": "d8339642fd3303a0c4971e1564515e82f69ef61b700ce17b681debb19404c23a"
+  },
+  "scans": [
+    {
+      "key": "ixi_t1_002",
+      "image": {
+        "sha256": "71c5d110a352f943c96e08f75f5087066b608da6f8d203eb15d8d596d1f80f47",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_002/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "81d7d2a38a0256451b315cbbe2a26fe84841dd40aec13fb432fa82753fc0b106",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_002/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_012",
+      "image": {
+        "sha256": "073461dcd7bdec3324c5624bade7f31e75d580c67d22cb24f2de4f1389800c0e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_012/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "634f1cb6ecdb1b8573724ca21f3c0a1c93ec7f5dcf7c46dc20be55c781070811",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_012/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_013",
+      "image": {
+        "sha256": "eda65d2111c9f3a7e2a766471bb29cc442b668d2101489871ef3f3ecde6e0530",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_013/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "c65db70a1fe51a177620819182bb2aa8eeaaad20c260f1b43edae9c494b49afd",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_013/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_015",
+      "image": {
+        "sha256": "8b81b5bae85a26d3ac073c6d5c13a2d0980abcba0cf7fd5cbded4f425cd9fc95",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_015/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "9ea7070c5ff2efc0b39ee60bcf43c3c32e9effd0c085586e32fff68103fa12b7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_015/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_016",
+      "image": {
+        "sha256": "f017dd7473c854e8d079005ca312576daee71d580e142edfab59d0ce978499b0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_016/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "5a8ae13fc763992a09a681222205f65f667893ae94bf45e7ffea2b3b622746aa",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_016/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_017",
+      "image": {
+        "sha256": "ae112398a6689cd3602ac35a01e225b67e69cda6d160882a748fb67193e9f9f0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_017/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "513d740deed203a2e0ed04c70f1f6d59aedce79eb58211167f61370d40c807de",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_017/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_019",
+      "image": {
+        "sha256": "4e4c0059e65e211a305b2f3fd2965ef68f1cbc077ce06f360e82ab2a7376aee3",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_019/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "bcf959fd39d09f46ccd20ba72a5fa55682afc2076a25216a735d15209875036a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_019/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_020",
+      "image": {
+        "sha256": "78960a0b46e79b3f47774e7c64da6758a583eac08bc6ae700142d7e113320b57",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_020/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "dab62b85de94d9584bb23d264d3136ce1733cc9e2b388129209f9ee7ec99aaac",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_020/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_021",
+      "image": {
+        "sha256": "f98713adb81e0bcf90d7412198c4aecbc3d76ee626597a94a8228ea6e9a3a58e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_021/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "8e1e17bc6ba8f6e6ed2484312733c35f8f68ee6637c0f2c13cad2aa6c824157a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_021/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_022",
+      "image": {
+        "sha256": "c0ff5dbf0614d97af48c23c79f130aa8fbc874c0b39f72e1dd61b898b9c15310",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_022/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "ace2d383c304c6b1c4b5880cfba7de28836d86b23d879b2acb520f2e790254c9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_022/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_134",
+      "image": {
+        "sha256": "2bf018166b5e0fde738a2f160e44fc2d71b96ddb1fbad70c02c8592c59c73071",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_134/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "a9081af129815dfac2b2dd52e9badb38c90b226c5e33304e47b89ecdb1e7983f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_134/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_135",
+      "image": {
+        "sha256": "b3bd87e1c9be0e97807f007022ddbbb5d1fd101fb6cf00f15fdc309df1cb8f1c",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_135/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "7a99515a1d9e5e8ec55ca10200abc4363d0508198731a6e370df4358a1ac6220",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_135/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_136",
+      "image": {
+        "sha256": "c3977d3afbb9498c8ffd2ad75770fdc0bfae1e9bbd8113dbf6dde8032f496056",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_136/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "efae809740da620879ee918ec233a2f506f6649f0d9057e90041501998f7f5a6",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_136/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_137",
+      "image": {
+        "sha256": "99d7c08748675db779f870192ba3c728e74ea2ce1d6aaf5dd0b0f78ab4b70ef9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_137/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "c365d7f99b4e23a84dd75e354094a6213066ef0429c898910494f94d4cf98d00",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_137/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_138",
+      "image": {
+        "sha256": "95895d7aa6d61a844853d3cbfc3312238b4c436d6a7e2d81c1e27ab47ec335a4",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_138/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "9c1e4f356a43710a9823140e1642216d8f9041f6305e94fe693e91bff17b2a47",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_138/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_139",
+      "image": {
+        "sha256": "d00f0edd926cce50405b8fc8ff9a6bcdbfbeed683a86da0656783ff9e35bb0ba",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_139/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "bac6620b242447c564db727a07abe509d6b2dcbb627893f017900553557f26e4",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_139/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_140",
+      "image": {
+        "sha256": "df6c333e699f8ccda35d5c669f03d5e73ccb0ce29b7cc0e1a81eb6c407b758a8",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_140/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "a4db324ba46b148f392987d8773629591d8530288919e76f6d294a68d21461fc",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_140/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_141",
+      "image": {
+        "sha256": "67f172fdfe9ed6ce6af18d94132eabc7affba09d02dc629f68029407657479f8",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_141/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "6a63a26500aeea6f02abd4595399d8ec1e075dc24930b2b86acb7a5ae7862a9e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_141/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_142",
+      "image": {
+        "sha256": "969273a9dd4cd62e8f31f82dac6ca80d96100a1c835846bd51fb52b83eff5cbf",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_142/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "1dfcd6c7403a7379799aa6de2d621993a41374e994952da81d71a1c8ae1a4677",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_142/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_143",
+      "image": {
+        "sha256": "611392a9c94545881a74c00368df84660c752c30b4b9b893be59288ece943fee",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_143/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "9f67681b7411702e851f77f72dc5ada33de83868c910871b762126d021add9c7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_143/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_230",
+      "image": {
+        "sha256": "638c71c63cc4428ebaf1193b12c46524d1717259449e1e646b51abef336fd481",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_230/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "c55d50c2c834d644a10df5fe5911df19247e7a7b0fe9727b6988ba06833ed286",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_230/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_231",
+      "image": {
+        "sha256": "d0a23bd48f40c9879ceacfddac625a67ac43bf308924fb234787e237604476a0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_231/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "0f580f1c14ac469674462a83cb38332f4e135c0d0232833e3486d6468ac6572d",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_231/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_232",
+      "image": {
+        "sha256": "c2250bf42581e6703cff0d6853012bf88b291950d154181b408eb2569854aa6c",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_232/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "24570aec652ebfe588dd41a7f1eaccd0c5abfe11d27f566de3ebd60b8f6784fa",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_232/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_234",
+      "image": {
+        "sha256": "6f6a0c1eb63ca873ce0c0bed5233b43a3780c5c146d01b57a7bfb93998710af0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_234/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "17bea8f99b19213f7165dd9e9f58d1d9fd0b3dbd1f92a8cdf56b84079b33a289",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_234/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_266",
+      "image": {
+        "sha256": "33af03d76ccba4d04bb3164ffcf494a12dcb1a6f0659a54796eed49478e4d966",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_266/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "58551ba777bea2da6af485000baf8cdc6e732de58b9b5c37a2ca3203c2210d62",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_266/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_267",
+      "image": {
+        "sha256": "0969cdd8a2c402ac66a4929ca2d48f182534bb1ca8c33cbb94da82c6d9dd9b63",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_267/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "335bfbd36dbf1e07c2d7a0893709881e16ab2d043512b8f94277fa21f1c5319a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_267/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_268",
+      "image": {
+        "sha256": "255dca86830e70791ee4732eaa2d0ab7b242e504bd52f6e09db90429670a52a0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_268/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "e7bc5c7b6cb15ea235e4ed411b81ed46b8d75d83e44fa9497f57e5d5130b8174",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_268/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_269",
+      "image": {
+        "sha256": "43efb78b453b00c7a376758cc04bfd3050d24df4e06a7f038bea8ad4a6c0d5fb",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_269/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "2cac9b659127530d706d8d0bdd5b4fbd4e43fbd8b5a22adb66d64524a1c8845b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_269/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_270",
+      "image": {
+        "sha256": "12db922395177c67b44d70ddb269604c013c6bf8cba5ff3489d0e328e7be834a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_270/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "f5161cf2457b357830eb96b4e01703df57e35c15ac3a1e7f19f976c5e7a95ff5",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_270/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_274",
+      "image": {
+        "sha256": "3d4a391b76255b494050f3f8192a9a6ecf668579aa53fe4056b7e57982209b8b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_274/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "fd1b9775ef4985edd0407eac2ca9f9962f0cdbf5a3bfe29d4668fed33e6f6358",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_274/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_275",
+      "image": {
+        "sha256": "fc80611d59f86b9c1554450b23c605eeeb43ee459e179db1b159c04635cc2a1e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_275/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "b318b937347e6a1b6dad9685cd8ad2a176e58bd9726de0ecc9eb1912802021f2",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_275/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_276",
+      "image": {
+        "sha256": "0ae8d42ca0cdcb73f3757fd33958f13c98e6aa0b1b1ffc506b9f4e937a209b2e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_276/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "5e1cd6b7580755e48edd02aa3075d51a1986d5a4b564495d022b9c66a22fc2f2",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_276/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_277",
+      "image": {
+        "sha256": "0aaefe8efd19e8361843481528d659f001669a24252ef59a32e7a0de7df0a333",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_277/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "58d24ab999d15503d7f0b758dc53691d81cc2258ff9d29e503785310ff11ebba",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_277/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_278",
+      "image": {
+        "sha256": "46125f606b7db71580aa19f15e5dbe4a1d5b1624cc433414e90056cd39794054",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_278/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "c2b79466f566fe4d9ab74769f7c7fed740217afc5b7d1638ea07ceb91d623e72",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_278/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_397",
+      "image": {
+        "sha256": "7f6ae01e19866f64cadc39ac735ea18af3fdd60e92b4759245477bb596530199",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_397/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "5789f5e4b3531992e51b83b9d30bb46f07ac7afa75744dcd99d797a0d0b7b31e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_397/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_398",
+      "image": {
+        "sha256": "44cb6e37f6c64c9512004c357d1635d32b430bd08d91fef2155ba974937c0657",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_398/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "67e2a2afd4664450cce0811a4e786575ab97eb722aa6e2e8544e658aca18ed9f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_398/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_399",
+      "image": {
+        "sha256": "9dabadddb487b41a6dc6b51449b82815f46faa2624155fe1e6fc67fa1c0be1a7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_399/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "b8cf331fb99a7bbf9e56cd2d8fe0c95873aa2c255cc90f48ee004da9e074da44",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_399/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_400",
+      "image": {
+        "sha256": "6274d438a5ab5c9537899bc77753900648e5ba9507e5f334c73450d8ad19f974",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_400/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "f93272fe87ccec6e7e602f1e7e2419eab6affe10c069ed266797e4fc4e61022a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_400/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_401",
+      "image": {
+        "sha256": "a7c8f82657a3ec13bea957a3805cc1944dc007957b02ffbb99e925db00c2dbd6",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_401/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "20a5badf82b5e6ef92a78090bfc1f7f15055ae55c0ced5f716bcd9a154c5b955",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_401/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_518",
+      "image": {
+        "sha256": "661febc478dea90601bca0fe524820904b78ee45e8e600fb36b8e0be3a76ddc7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_518/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "b4553b710eace9587ee2d1e71f5ce68b09175d314c53efbe5e681705a3ffb68d",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_518/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_519",
+      "image": {
+        "sha256": "5b8f55f15315b1b036cca0479de569fe5ae1205e444e5e94f179a8e72a2581fd",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_519/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "890ca233b0bfc0b0264561c32f0b61d3b0a428779f9476c121dea8bc13b46b73",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_519/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_521",
+      "image": {
+        "sha256": "0cd63fa662d261afcd58fe81452da4216a4f397f8cd9260ef1d202d5e7898f50",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_521/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "b84427442798d3de86e1bd2f692d6a6ad43e960fcf0655640a7d0a30b5035d2f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_521/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_522",
+      "image": {
+        "sha256": "b14db4ea9d5c13e7712c880efecd4ecbb0cae49b84124e59a0ab044c11108c86",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_522/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "fa2aa9c0d627b6abe42948a9869b73077886f81e275a039ba0bf113677b99b77",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_522/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_523",
+      "image": {
+        "sha256": "916ad86bcd88bddfb4e436f5653b1c84e52a5ab5c0929f3769d0895c2cd36eb4",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_523/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "49fb31e0f792517373ed5b2bbb3a9422659a3c1680fc4328f58ae6041d583623",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_523/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_524",
+      "image": {
+        "sha256": "7a4960629e923692cad66dc9cf21f78c8383d1f36082c52b16418d2b2058df14",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_524/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "129820bad8630f984abfad2d73fd6d5348b7982378a8479f0795228646c0e092",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_524/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_525",
+      "image": {
+        "sha256": "d6528d4e136a8c041be8cc6b7ba97f915b11eda9d606e7eb86e38be87f310917",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_525/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "ad333dd9a24115c004ed823d66e69987cd0c6e1a917d50137566477fc8412cc0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_525/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_526",
+      "image": {
+        "sha256": "9cca68a17b5c6c20ab188111281a6d32206b0406aee5a8c5c6d25e109dd7b707",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_526/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "420b1394019c23424fd9be04aae791ca44f071ecd4e19165ef9cdf261d073780",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_526/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_527",
+      "image": {
+        "sha256": "ee16d8cf50a95f2bfb73c133e4826f4af2f0fa7ac659abb879287912224f4abe",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_527/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "106f391cb8e4f1bd42ad6711b73c1f5243979eede75b785389e3054f063e3c7a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_527/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_528",
+      "image": {
+        "sha256": "85a96bc2acef7328bc66d9c2718e2a0b4ba73b1d16a30d8a4674eecc9dd515f6",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_528/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "787f1a11bffe1aaf21f166f1aafb7d163700649ddc5b2ba19452ca98dee709fb",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_528/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t1_553",
+      "image": {
+        "sha256": "a6a48786b98aa8fb193b271b42a8e2c36eb8e66ff6b0d262124b2a56356caaf2",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_553/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "f4e90ab98a74f9658be06dd496fbe0fce73bf5e279f39a838b4c311a62062fd8",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t1_553/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_002",
+      "image": {
+        "sha256": "4aef3c68efeae125d14ee23aa46c03c8243a6c25fe71ba7d34c613061935b055",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_002/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "cff557e984fec731e4c4cdb8fa97e391b28073ea286408ad6213c28e4aced8c8",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_002/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_012",
+      "image": {
+        "sha256": "9b50842446201d3970eb4f77a24fb2be19ad6f2f357ee26b9de3e6836918f83f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_012/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "b452c2229ab79c50920d7226a8889837f12a973c8b20d972681b31627b0c44b9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_012/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_013",
+      "image": {
+        "sha256": "c9a7de4a5e797dbd2fd50f0c9c3398c0dc78880d07538fa3b6d7750e51d653eb",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_013/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "87a7bdc570827fb8cdf8e637e95c1496754bf62d5f7e5005d3c4935019fae92b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_013/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_015",
+      "image": {
+        "sha256": "8603b943f407d3cc4c3a3fff975fb2e07903feb23f1f18d064f4c9c0e5e0a423",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_015/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "73ad11295d585b093898afcf5dd214c53564d18009ede411917d7bb68a3cd380",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_015/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_016",
+      "image": {
+        "sha256": "288ffa3662e7dce4f422b5c2f2ca5eda47083645ace8c0c93e0c3b44401a5ad9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_016/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "d4f68a6633a3fd9fccfda36396c4b755600765965e55f3270c31b4722e6cbb1f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_016/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_017",
+      "image": {
+        "sha256": "b9b8aef3529a511fd260d286f6c57bd1202ad44b777a4b8b3c73a4e964c7d6f6",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_017/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "3ea295d5d0f18777a79da076324b99e6d85e3184806cfdaa245bee757be9460c",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_017/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_019",
+      "image": {
+        "sha256": "192e542e21c236b5ddc36d3d7a0814521986e0dff13646a10b43449d5620a743",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_019/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "316c607f05f9568ef453344c3467d7f7d0c840ec746a50b39785e1f9dc85d9b7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_019/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_020",
+      "image": {
+        "sha256": "f9044009b0aceea343c7e24367ab39b52083f31f3202ba02c999314de437c3b8",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_020/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "1b11dbf273064ef4eca8373a1065b4f0c8c363fa434b6fd274a072ef8a77dac1",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_020/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_021",
+      "image": {
+        "sha256": "07fee1e9831a4002e09fdba409d3c8f14102bb57905c513124bd4f2364850259",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_021/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "ea5118823c9ea6c671a877a31ca528ccf39b3910eb0cda7b5da6713c96a8d9f3",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_021/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_022",
+      "image": {
+        "sha256": "a2b2a06478c7ffeb11546afad549702cffd8caf5e9f487b51753daf62418adec",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_022/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "77a6865594c91a0d542d9be3c7fa583e28f2dca7cd32589afe92cb9b01582e25",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_022/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_134",
+      "image": {
+        "sha256": "623ed301d976778aea44ff3035907537d646f9a1897fcb42b8bf0051c7a26349",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_134/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "9d9c19d33af83c2aa96ce7abfab633644e18144009553d3d830cf4aa7b507c56",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_134/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_135",
+      "image": {
+        "sha256": "4f76eb54f1fc83be80fd73b63771972adad40a6b86e66bd21728ed674b320357",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_135/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "b39c90b122b43c9fe334a245a759b516ce5000817bf0fdfc074ee1813a494a6b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_135/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_136",
+      "image": {
+        "sha256": "43ab940fb12ca09c71910139ebbf3cefd8f06470e3331eca8c0e5af52c0943e7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_136/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "e33fd3986274ea5d33f6321e8f629d5aff9a274f5acaeaad2d537d972f4cd96e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_136/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_137",
+      "image": {
+        "sha256": "bab4cc10769a6140240edad451c680c201484c3a82d6be57c24394d58bd2e45a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_137/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "289d2f8faf1dcceffdab35258ac028beafeb871e1e790ae11f812e3e0acd7ad2",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_137/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_138",
+      "image": {
+        "sha256": "61db158ad924104c638fd7fa13ba0b342983161686a8d8fae97bf975b1cdb714",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_138/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "0b0e149020c8941ef76b0c100e388495562896cbdfb2c2937a69ea209cefa0b7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_138/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_139",
+      "image": {
+        "sha256": "52f6ffb0291a8e47c3cf5fc8f455bbd804f0cab7166a4b0a00a63e961d7c664c",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_139/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "e242aea3b4d2cb4b2342a77a4ff7618245ac2b0b72ec5b87d7d33f0a703fd0e0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_139/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_140",
+      "image": {
+        "sha256": "6768d7ddbb74d3ad3dc993f0c20899ac8d1b86a598ac26d945968406220c5389",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_140/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "83fe2b3b5ff9d9dde8a09365e9d7de3afea4fc5ed682d26a63a1ff5d4cc5d026",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_140/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_141",
+      "image": {
+        "sha256": "9355ed8814794109859261317a1774cdca147ccac9777c4a3c4371cba4ab9e86",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_141/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "1ff056e1fe1d6277cfffa2659dbf1289de9e04105655662b4ecdf4e60d8459a0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_141/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_142",
+      "image": {
+        "sha256": "9b11b836e7ea1ae16249eedf96aae8245fa36045e8c2d8fce273f23d6709e41a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_142/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "c75e167fa55564ea38a6ebda4f7549b6d361ed45f728df01a697a22b84f5f0f0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_142/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_143",
+      "image": {
+        "sha256": "6f2f67a8babfc49f7201e7ca530560ca81a415b0fb0ada9c7e3c159616ee304e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_143/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "14a6ac3248d8bb445a99c747384fadc284072cd13839a0bf5a649edd2e7dc088",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_143/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_230",
+      "image": {
+        "sha256": "0c655b61a1c6e31bcedf11315b56a28c919d03c778c1271e8fd1ef6a117f2476",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_230/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "4a0ce5ee0536c8e620d715bd750c05236ce4c774271b0d8b9adb255430df01d7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_230/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_231",
+      "image": {
+        "sha256": "c7973b571ffa1445b844a81d2c479c0d6728878094019be400ee849565df4cb8",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_231/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "88b6735941630409d51882381681f7239f752325d7c3be69d02ff6e08730a3df",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_231/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_232",
+      "image": {
+        "sha256": "71f14503a8587ff21a7e439e62085a3a2b3ff7a7fa56bff192c5311e77b39466",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_232/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "395631c2162d7a5fc81f23f990ef9dd585960b2435fefda17390646241445fab",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_232/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_234",
+      "image": {
+        "sha256": "cb558b95b288d1d7da1925ec4c0a5307abbd7d6af41662f146b019a40fe6179f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_234/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "6bde7a4a14e66268a41726caf50b920b89d9f38f10472f38ce76b1db584952b9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_234/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_266",
+      "image": {
+        "sha256": "1f07c58e4eb537e26d8c9bca191a66942b2a99211c292a3d3cbbddaa3e427482",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_266/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "06e5dc66357b5cef77d5b6c3c9fb04b64d42304a317f36fbb21d42b38bf5011e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_266/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_267",
+      "image": {
+        "sha256": "309b699191977c8047bc09ef33211df6f991ea1b51c9f1ec4777123b3e73c086",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_267/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "1fb7e53b00b5adddce9f7552b98abe6d2c72e643eac875c5c8b9d490efef6c43",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_267/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_268",
+      "image": {
+        "sha256": "407d5839f575518e3ed8f6140e17f1ce798aa898e0c38522d28b5c80612ea8ed",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_268/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "8f53e2ae5f857ec17650c3068f132fa07d233cf93baafe74526ad854aee24ad9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_268/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_269",
+      "image": {
+        "sha256": "bb55dbb701eb41289886a207b28260a746bce22da1eeba9db17d2929418acd39",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_269/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "ca13608aa52d046346e6f68a9afec78a3d97d2bd8d4f4b06827931aa169dfdfc",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_269/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_270",
+      "image": {
+        "sha256": "5c22d68edc96fcc815c9bae7d003c525040f8512a4536308496625ea9bfcc8d8",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_270/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "7104d0975b1848608b35559c387630f5fba90cee6cce8a56d12dfec63e8f383f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_270/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_274",
+      "image": {
+        "sha256": "2fdee37dc9bbf69b800934f68ef87cfc46a5ff47e1938257386e91aa63a3e119",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_274/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "7cdcf00db60d2f301aa648db4d2e96062a2bd7a44918ef04042fdd4458be1569",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_274/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_275",
+      "image": {
+        "sha256": "7411ca269ad45cb436586c4b0d4dc0472aae84fde171d22ab3711247e3bfd93b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_275/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "070725394ee113c8ba48620211ec0f1ce75acdedcac20f480400d547f3bcc7c1",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_275/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_276",
+      "image": {
+        "sha256": "f53156d31b1bbaf6736244c00af797afe5750aa2c05447483683963ccaaae533",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_276/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "94ff2eb1b06adf9ece6ad0a6cb7e8bb03d663f8be1ab9637a378d8acae9dbbc6",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_276/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_277",
+      "image": {
+        "sha256": "f5837fcdccf2793b847314ffbc61d672e92e4b6bfe8f0d6dcaa16e7778e0d8a9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_277/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "846b01ee7f5a3c640fd3647f76d45429b5ecc2ed4809ef95d01b0f9362a8acc0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_277/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_278",
+      "image": {
+        "sha256": "170f406dd065dadaa79b473295bd63f5aae7b982092155ec9f0d76d3bbbd3a8e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_278/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "6cd3c7a1d2267db2b77c46845d2fe7db3db391cc4f7c182c1952cb5b9c84d30f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_278/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_397",
+      "image": {
+        "sha256": "4b3951325562642b63010808ce6cb3c008872936b98b5182005dd04890b5b1f9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_397/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "21644569da2185c78715f02b48560ec8d3212d36aa18d2504a8bda3c3c7dd482",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_397/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_398",
+      "image": {
+        "sha256": "2415e163419436f70dafb7c5614e3434cfe0d057477e8275210c26dfc731b2c4",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_398/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "7242a1a4000d17a8905d6049e5e0cd162a906e7c59ad188aa0405505095eb6da",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_398/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_399",
+      "image": {
+        "sha256": "ecc4e8aecfb91e3bdfd3ba1c38be1dd7ff16c324020649c4f6bc4e3cd32c0850",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_399/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "08c588207b8a28f1658e00f5538cc21d2e64ed5f7c50d81e4aede05c9c5faa1d",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_399/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_400",
+      "image": {
+        "sha256": "f004b8decf19ce1415bd9b37b96e48cebbe883f8643bc7035604ac3ea1709772",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_400/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "de0557a7b235e344b975bc6539ec8f91494bd168ba1e18ceb8c712a33e945aff",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_400/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_401",
+      "image": {
+        "sha256": "e8fc0439725e92cfaac3cb6b88f182a62fe43d7fd351fbeb7b447b161b157083",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_401/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "16b368957f5917617d1c1c5d6e10ad2780c70ba49ff97a5d9051069699b80a97",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_401/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_518",
+      "image": {
+        "sha256": "5859b88ba496c823d459cf9a0fb15b0447a10163c34c9ac6776ed3546c5240bd",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_518/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "281deb7a3006ac0ddab63880ac04fb8a2736b178622babf3fc18e3ecf99fb6fd",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_518/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_519",
+      "image": {
+        "sha256": "d914db90444b2943c84be36157836b883f7218ea6a0e27c4053189eaee03f351",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_519/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "761b97842103694fae7f96e414dc62bfedf6945bb9fb84e20ffc2bf5ab97e1f8",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_519/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_521",
+      "image": {
+        "sha256": "5a0d0c5befe41dcfed8777d50c096ea026c6c375a3e80272d79c624bf5378925",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_521/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "db00a685e83aafe84c3df043fc8673ef35a68fc2eee341bb9afc6d71d310766b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_521/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_522",
+      "image": {
+        "sha256": "939e99cabe8fdd39544072f4b79be9f8ad6dad9a4d2c12c83f9d9d29939a3718",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_522/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "4a3f088cc82e7ae2fc0f66fb10ee30ed66e28958974bd876bbf8573e4fbff9da",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_522/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_523",
+      "image": {
+        "sha256": "e9e2d5730b6cc97c8851f071cff5304c0153eb38b7f923f4e9030a21cac009eb",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_523/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "be54238de4750e67c6dc5f6d77ee1aa84174370e3f0aaa0a5d1886f49757d62b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_523/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_524",
+      "image": {
+        "sha256": "72c813adfc6695fc9c494650f7874a0b8586f85fbcef9e4c4b9a94529b0f29e7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_524/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "a251595299f93525eb472e00927499cdf59e699ab6f17a3c114f83dbe458ab6b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_524/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_525",
+      "image": {
+        "sha256": "ecd3a4902d949d30a91037673630559dd920bf98ecaf8966ac6d8ad02bc3a4ed",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_525/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "6b0052d6ac434e68bcd26d452f67c979d9da27ba6ec3799d4427b84a03b8ab38",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_525/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_526",
+      "image": {
+        "sha256": "74326e550b39b07320bac076ac589383afc36fcab91a47a2b1f8ed35ddcaf143",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_526/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "cfea08a69ff2ce6d69a36e58c077ac4c07f516c76d2aa7cf2edfc18f8ef47193",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_526/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_527",
+      "image": {
+        "sha256": "f17de1d283ce608fe2b81b5465c46dd66eef1f2a65c1ebe6bb55bdbbdd17e858",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_527/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "4972522a0b16bc380df0914953e498907bd501e52aedab59ff468d197625f2dc",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_527/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_528",
+      "image": {
+        "sha256": "e743bd125588f077383ecee8f5cd4a44d8acca5a709588b4953d3fdd1f2a4697",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_528/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "2758174ba1d52ac3f24af957d5d8dd71dc5b2c151c1c53d531e22de922e09fa4",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_528/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_t2_553",
+      "image": {
+        "sha256": "c27d8ee0d2e4152da3535b27f532107bc90d6cc5c4ca6c04cf7abc79e845127e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_553/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "59c14913f3c0396c9f65205b573159940f44bf3f1c3d58fb36660749eee67929",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_t2_553/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_002",
+      "image": {
+        "sha256": "df64daf6971f6df0981cd595ba2e9d6d26b692d714130fcbe6728b3f6faedae4",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_002/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "2e291cded019f9d679db8600111dfd8d806fef119432754f28476500236d7493",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_002/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_012",
+      "image": {
+        "sha256": "ffb092e0e5e12af608e7ca60a38d834014442698786327f53582fd7aa4b7f0b2",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_012/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "3c609a59355b8fe256994ac0ed141c40bc3186c91d78bb4f95c8756655742629",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_012/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_013",
+      "image": {
+        "sha256": "7c82d213d51ee0081525eb8322356a0d07dd2a16644688ee7f9da4740b5bba72",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_013/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "46fe7fe4df3766c0a0af2a8a4ebf26f0d553ed57060779d532579d6dc830c227",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_013/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_015",
+      "image": {
+        "sha256": "dd48f14f9cb87a6ef05711bfb9e9f10a9cd1b5af21c156e401e696b507f95b50",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_015/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "0a5f116efe8a85f261f89f23b1aacb584b4684d524ceb7d3b3dc352fbf6971fb",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_015/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_016",
+      "image": {
+        "sha256": "c2ffe2a569910c486f9d17a95a4cc0b7a7cc2165fa7798e4f2d01f683b9ecef5",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_016/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "e391a611101fe4a5afa17bfdf7fde185f7cc0e95ba9836b3339093257b17cb87",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_016/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_017",
+      "image": {
+        "sha256": "3a13ac8eda3e291b8aab169dccb01c5a3288b92f48c9caa1f74e6e1f8cdc64f2",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_017/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "d114fca55938ee189f26d80a1fc8b118c427fffed61a814bd87014ed6d890b46",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_017/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_019",
+      "image": {
+        "sha256": "aff0467845a4f0a380ee360ba85c95d642349a5b6551e96620393b6b38ef4a6d",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_019/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "fae351bec88b8f79f3333aee479b251309cf0d61bb6242db984abbfb7916bbb5",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_019/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_020",
+      "image": {
+        "sha256": "b361e5766bad41e3014e758c383a8077c74ae758bdfd0cc1d8d40c2360bb854d",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_020/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "ad28bbd6e5e2a7a5eade4dcf4276cb7f1f191aa01bd14ee58d8e0272b396bc1f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_020/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_021",
+      "image": {
+        "sha256": "fa5af5215678cfc01da070bb12b7edcccec437ea851fb7807991a2bd185f4d01",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_021/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "f3d67a1c977331c7c0a85d4ee1c23f7eb2b37d78e1885631ee2a7f60950b02e1",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_021/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_022",
+      "image": {
+        "sha256": "1fa4d7117e91cbc5ba41acc40e3ed127a98cc85452f9ac190dcac2d8e83b44db",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_022/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "699a4252365c8ed329f33980f6c636f9e508235f2a09ba7807ee1acc2990f47f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_022/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_134",
+      "image": {
+        "sha256": "2908b53485e9f36fcea0b40c69ea0046bd265c92088b0e7fc956043cb779629c",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_134/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "580fc11e632edc8c0414701461b527cca1da8fbfc60a41690bf4ce49127b889d",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_134/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_135",
+      "image": {
+        "sha256": "6877e0257b7bd2ed54cbfee1ce8ad02b36e3c015d0b78370dda5699470974bff",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_135/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "ff7060dcef713c0241c840e24ffc302cd84602203a7745f5afe169fef788dab0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_135/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_136",
+      "image": {
+        "sha256": "0180d16fbe7833f9517f384eb4067a090729bec9cf15b1add8d53abf9d84c916",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_136/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "e4ac349d7ed0e9c3461e5e5b003b7c947dd37d18ae6bc1065831126de27eedac",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_136/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_137",
+      "image": {
+        "sha256": "505f1db842b29a96eee4b9d0e435fe21aefde9124e6bddec8bbcb0559e641bb2",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_137/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "d2e7ae7fc05306bac1691e6d3188e70f3ae5afd8c0d8db141f943f6d9b131550",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_137/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_138",
+      "image": {
+        "sha256": "091c9d0655d07f9fe5121d2e04c4e9d4d9cdece5b46d00188393a4bb643fd3e7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_138/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "59cc7bda5ae47e3ab811548470db4ed9cdba61cca72ec642a70fb2b8613652a2",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_138/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_139",
+      "image": {
+        "sha256": "eff42643ea3b8b1f51c2604a7e7a858e39b4f99f0089b9b064a5022e3704746f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_139/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "021c102b5472a6f859a78fb0e872e57adb94fb1007451ae4ac6727bf4d5f7b51",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_139/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_140",
+      "image": {
+        "sha256": "1e9d49422f5077de5c2a35c6bd75ebc8e25007a85866d877b06f8cc136c5f168",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_140/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "ec3ab3ee108424c15c6f68591458fcaa06481e12491b213929c7ecf318169aac",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_140/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_141",
+      "image": {
+        "sha256": "d74df675e29d039f17411396d7e6d0073da91b6dc03676a46d9c2966568aa575",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_141/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "819ecc3cdb6c95cefe04a10a189a1b0e834131bc2d0298e95893769b5587a43a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_141/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_142",
+      "image": {
+        "sha256": "55cc7a59fd1ad65e6d368e1e1a18fbc5e1bf4bd923c8d5088e14577e30073be0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_142/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "32269865ae1289050096fc56c7f98ebf2111ca8285e15c494b599e048403765b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_142/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_143",
+      "image": {
+        "sha256": "4024a04cee09625c28d91f45e4badd56c01b266cb4d51bb958e633cffd2a49c6",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_143/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "0cd1ee7ec02d6a7b4308feacab5fb0938cc7f750fdbb9d0ab13de3a9fcd160b3",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_143/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_230",
+      "image": {
+        "sha256": "60f2555e40299b848d5ebc4a1b1db7c86fee0453af275316963f3860c411c2a2",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_230/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "9f80efa16b9c3d5d9de249d068ce6408e488c1b4133c4dedc76ccc9c9da6eefa",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_230/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_231",
+      "image": {
+        "sha256": "a9be2a1329b7d0d8e2e2b4f3a4ec5ece702c06d28904da1da8d34ee17f916efb",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_231/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "29e0c06272c1c5c5ded2e191c7c7874a340052648f818015bb90dd54fd4e98c7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_231/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_232",
+      "image": {
+        "sha256": "1b3f997c63933676c236b7aec13a5ebfd08dec5c2cdae8ae19031f31df72e733",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_232/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "16b99835ccac1cacea479b81e3ec208696128a0d8747e822bdadf01eb3e43117",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_232/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_234",
+      "image": {
+        "sha256": "f8a87f9a268fa931d2926d9d79550d6c2ed892e567ee3631a1c358bd1f7a53ed",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_234/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "226d34f364079dc59257d00b50b2e27c3528738333d172cd3172410a270d13e4",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_234/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_266",
+      "image": {
+        "sha256": "e370b4cbbc909b742d4c2441aab7047d4ebde1c19a0b11514ff8da8cba9606bf",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_266/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "aeefbafa214e51d2a360e22f6cfca2607652e2844428cb667ac1e0040d05fc40",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_266/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_267",
+      "image": {
+        "sha256": "c57bf0b4d0d690d5ecb84d0169703cfc531f6de9eb5dc1432d6dcfa7a83fc7b2",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_267/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "ecf2480976b2a521babf9a235b7c4fdf57b764befbd487310cf4efb4d96c2f8c",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_267/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_268",
+      "image": {
+        "sha256": "cdf68a9748c7d9ffe12e9e03fecedcc2e9c77ad0a638a1ed287974af6e060963",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_268/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "c7a435b3a664f16916a94c3db1f961139529fab6987e9d45fa00e68628d11a80",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_268/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_269",
+      "image": {
+        "sha256": "029d86663729744308ed369a57f55438b1921898a75e6ae76140cadff82aca98",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_269/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "83614679fe2a1e90d0cb1efc212d413d8d016b403df4f4bc2fa636ccc29e0175",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_269/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_270",
+      "image": {
+        "sha256": "a8e93d15656e9adfa60706894872ed5b2f8db4a709d95d3640527dd8adebb394",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_270/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "3a6825cd94762f239b947371920a5868bc4078a35e86f8f1b60154d20749dceb",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_270/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_274",
+      "image": {
+        "sha256": "33c8504f5b1ef03fdffbcb3214a5665463652b6c08a7b1d4cdcfb462fa7d4339",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_274/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "1be6cbd3c014375275e6b7b6859ce7ff0be7af47b5246987ce670a28688f7805",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_274/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_275",
+      "image": {
+        "sha256": "ae7f041397e6e392ac9b5ffcbcb11d60364ca5fc72f1f548dd14db5d148cd5ec",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_275/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "ba5c2336cb89550feebcdee512a4597292f2d333072d7b1a11f8dc26df2fd3f6",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_275/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_276",
+      "image": {
+        "sha256": "00a3d19d125e406a8269c26c591dc7a5628f5a45c51e1361a995f22ac606eeb8",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_276/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "85fa3d70268ab10d576f615c6e48301fa0dce52fc70119494de188a21a064c37",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_276/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_277",
+      "image": {
+        "sha256": "5671fbc365079f459fc3ab03bef0ade1242cc37dc83536309b158a6c18b1cb7b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_277/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "eb4154a1fbe2e1c70d60826650624b378d9a0772876603b0bdd5c1795ab6b75a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_277/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_278",
+      "image": {
+        "sha256": "e76f4436a214245f1a3a179d5cf34249088b5e0e263a9a20da385fd8dfbb0bb3",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_278/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "648e0eb62de0c5875ebaef0b154edb8a5519338ffe5bd596f55890c7f3ace7ff",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_278/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_397",
+      "image": {
+        "sha256": "7ab883bd32d220cda6cd98c1ca3426a78d881936b671e88f18ecae3130e633a7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_397/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "dc8217131e07ee52ebe61418c4be66dea3450cb21ad0401bbeb06af7bba37abd",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_397/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_398",
+      "image": {
+        "sha256": "07d4b5b0045ae558e0d60259de58450d59bc037ae7a176c8c8745119cf6e5a53",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_398/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "3cd9e9dd028ae4f738e6df0a9388b7a8bf0326eab4dd09248ec3630f039966ec",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_398/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_399",
+      "image": {
+        "sha256": "8631af8a8417d730061072b5e67aeafd345f01b4fad24b0569b908b1f2484708",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_399/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "62ee5de8caab65f36e4f6d949b433b2502668b8246ad010958d3b8882892f09a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_399/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_400",
+      "image": {
+        "sha256": "da7e8429b632503202b19616932d944b9e47aa29761dc16eb0928b332a0bafa6",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_400/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "90f0af9c9fff592ec2910c50d2cb3764d0fcd35fcda1a9f64fe61f32c446d250",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_400/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_401",
+      "image": {
+        "sha256": "f252262db89801b39a67421edd42d170fd397ba404a94d14dbb90d5bf0bbb2a3",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_401/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "abd8f1c197d21c0ba10a12d10fb0ccf8088d63b972e4e11263d98d8689db29f9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_401/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_518",
+      "image": {
+        "sha256": "40d6c7b90134ac7e0c75a1f554dbd6726b6badac8f8d200a5880dbf4bdf21ff1",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_518/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "082a94da75ebc68ea6f2601e1f2b71e7a478966155940ccdf697092cb2d6496a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_518/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_519",
+      "image": {
+        "sha256": "5ee9cdedd83bd7d913d5eb995e294021fe3cb05ad3b2cddbce2c8d1b8e6c5c02",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_519/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "9147d9024bf6507732f7f7f7ba548e051e1b0f8f3feb64440b0f7b479e0cf022",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_519/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_521",
+      "image": {
+        "sha256": "7e538c4772a9df14d21ab23cf4e46d29781eadadb80857fefb6986a1f48783a5",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_521/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "fa5e73e001a24e1cf2c9bc20c087a7ea26d232d5c9d9dd8bdffcba818fa648bb",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_521/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_522",
+      "image": {
+        "sha256": "db7be382cfbb556edcc002003f6fbfbda6f54a52860faab14e045ec161387a80",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_522/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "688fdcb31bccb353397cd727c194ac05374dce163a0023c4f7929f40b8178995",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_522/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_523",
+      "image": {
+        "sha256": "f5d8f50fbbe52141a34b4b57b03f8905dc1d24ca78f566f0742b612ac73c01ca",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_523/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "faa0acccf10dbb2787a2ae6caef6d7e863d6163157706a5de3874df4f73a7dfb",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_523/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_524",
+      "image": {
+        "sha256": "5642acc802e8f2f5b7647779e547585043b567c019c1052f2f0284e60be68389",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_524/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "8fc282e0c965c10f445b9afe80b830910a3dac118e2a9c3fbce8c6714baa795f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_524/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_525",
+      "image": {
+        "sha256": "dbc942ad56d0b2632cf2805272b2a06b6a56b3f9508cc63c289dcc2aae2d544a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_525/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "b9654daf4daf655ecd7e9cf1bdf9f25448c6d23337aa511f35c5e89c53ccb4be",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_525/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_526",
+      "image": {
+        "sha256": "639ae296a174acaf43695b186d285d4f034721f2b32de82bb2a07c4832b14ea9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_526/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "f0803f88b8a3d1f6d649e5f02ee7b06e279ed1e35b7fa2969174b7c6a981ea55",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_526/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_527",
+      "image": {
+        "sha256": "ccb8f474ae54e3bf150a726b5b3e49fa999b5b8b4babc07805af58a5b3f51a5f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_527/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "66c71ddc71e059afd99164f116ab9bfd64f8c2de29be760afccb34cc0fc04f35",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_527/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_528",
+      "image": {
+        "sha256": "a9d40974a8f90105e6024199c0d4ec276309a438b3313d5400786ef4e1906295",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_528/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "096c527a3f45bb513e86ab5f91d388eb56bbe75a9d564814aadc0338de6d511e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_528/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_pd_553",
+      "image": {
+        "sha256": "4c51b33c5939c510b147499428b382a7e68326a65ae94d15b3b3c3c3bceb3712",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_553/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "c92b8d2ef27df31ee8690209f3fcbe2561d378f2db48116bf93e1bfe448ad31a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_pd_553/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_002",
+      "image": {
+        "sha256": "4ce93ed5bcc22b4f2d122fe4d0b8c02f0f42c2b57fd832fe6652894f10b0e2f5",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_002/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "11d9ab6b811f2464dd49ac437aab20aea7bb647dd94ca96449349613d0f51f96",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_002/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_012",
+      "image": {
+        "sha256": "af1d1125bb191751139d74ec8db6c3964e31b01877b24692f847676f24e3566c",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_012/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "83f05fd49c686deb559f8b3a27c3b2db86614770a191705815c67e2a6896b7a8",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_012/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_013",
+      "image": {
+        "sha256": "e1078ada56de4df39f1027fa4d564ca5511b4c94e23f638a5d6222b89bc7ba81",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_013/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "9a1a5d32c6baa952e23006565daedd3e736b0c82d69c595964a4e0ea8eba1cda",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_013/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_015",
+      "image": {
+        "sha256": "805e78890ca5b5c6a906ababb7426ea91f78aec9ea109fc39d26c334d1fd6ecb",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_015/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "29f9d30391729b88ee60b68914fb6c1d09f7db532253718e9af42fbcf5a8e18b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_015/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_016",
+      "image": {
+        "sha256": "d6f201db0171bfcb5b48a098027064c37ff2bfce44f036ced2545107f5de2543",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_016/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "566a4497f10ceb4c2d8f69f64b0511e0b985258c427ce7d2e9de1c0d69cb849a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_016/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_017",
+      "image": {
+        "sha256": "4a965dbf36fa7472020e9a17b0ad566c696632454bb6408cba18c3828cf7959f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_017/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "44765ff0f7f5a38c65217cba8235c3f0c39dfb358f687261d586b2b7abd995b7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_017/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_019",
+      "image": {
+        "sha256": "24425aee531e20538aaf3bb731f079c10a7fbe9846f4a8fd5e79fe15c07e5eb7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_019/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "f1f10cf9c0a4735f9f45b99b72d2a6ecebbd1198c5b9f6d0af170a183b82e5da",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_019/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_020",
+      "image": {
+        "sha256": "62c0acc5a03c4b66ae020a0e8ed0bec95cec96eeeda768d11ea2fbccb5da6009",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_020/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "eb3e5fbe24490668b9907392ea697fa7a834b3e7f580b7be1301bbab6d5146d8",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_020/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_021",
+      "image": {
+        "sha256": "d5815fb5d994b584539086009aa8f2398a66253539a47b5a00c16cb2ccb7abbe",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_021/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "884908105a0cae66da64de8a1c02a32c9cf405f2bd380399e7c262acd15e620e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_021/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_022",
+      "image": {
+        "sha256": "bf3d58af54d074d12cb2a94eaa1050b4e52d120230666e19f488eb14c7ee8e7f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_022/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "7762cfc2f3f417cc5bbb1584c83dc1668844d08c7c7d8ff0f0999d5e44503344",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_022/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_134",
+      "image": {
+        "sha256": "323051b68255d4980a1b364b9c61b04df29a1760ff98372d5bffba136f2c09a5",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_134/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "bfe0b83d80d211ed9c368b7e977441aa9e37a55c0ce451fdabb3da0ace6763cf",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_134/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_135",
+      "image": {
+        "sha256": "2a1fe42930dec4df28e52b657111874a367b198e782e5559a51330fe66443bae",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_135/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "d51e67e45256ce1e8f951cdfcdf2e7de8a7314b61cc2a9217796521a3318f9d9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_135/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_136",
+      "image": {
+        "sha256": "077062af48c0bded452cfae5d175967cbd677b0edfc1f37b95e1c252f60ead14",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_136/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "8749f422286ec6b1e784922f742ef1f1c189dfb9d0e442d050cc7b173d4e10c3",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_136/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_137",
+      "image": {
+        "sha256": "cc49d102943840122d6a1624e750f9fec003f7e16d9f1768b2fcd7a1d8655255",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_137/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "1d2e0f4cf3e95c3cbadd38bdd8e8bed621316f2d8cbf5b1fdf15274573af2783",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_137/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_138",
+      "image": {
+        "sha256": "d788dc489561bcbfd76fdd99401fc6b23e185913327f2b5e792c72cc0257a795",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_138/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "9a42f2ddc29a3cc3499c7d5d3585dfbd69b1427c7b7ca9a5a8d7e853094e5204",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_138/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_139",
+      "image": {
+        "sha256": "2a38feebcf0ebf194d9e6b09dc3c3e57f7a96960fce86dead58bfda52fd9a4d1",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_139/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "a4684854e0d3c4424d10ae4f65939c2c13655a38f73cff156c4c5cd2fc10dc4c",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_139/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_140",
+      "image": {
+        "sha256": "ffe53bae0a0dac37b3378160560cae076dbd8ecab510f8fda4c120bf1f5e2654",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_140/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "83775d23bf662406937c0bb049b6215ada10e4b76a82104391680d2a24fa5498",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_140/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_141",
+      "image": {
+        "sha256": "a81f9f8d56dd6920f7235666aaa7f532de6217f813c42e16a7d8eea67be7f94a",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_141/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "21fce4d47d28f96828ba38ac5fbc193c2e8a4a82624344e3e39021fbfee7bb83",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_141/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_142",
+      "image": {
+        "sha256": "537b0d5c30699087a309a19e7c1d794f4cc0ac09db0e6251c15c429a9e8b16a5",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_142/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "774b5140345faa37e9c5171f41e2030118244ea980f6df598b17a79b9f19d6d3",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_142/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_143",
+      "image": {
+        "sha256": "a112afe0eb3ad8a42a86ccadbcc676f2f0ca55037cea84b7f88984211cd12469",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_143/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "5ea362c9199e341985a36606f720dcf752801f63350b7dc5d94de9818d76d611",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_143/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_230",
+      "image": {
+        "sha256": "1edb254721d590cfa8bfdff7ef0b8e4a9dfa5118a05119c976d3a79c50ea5037",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_230/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "3cb3a72385d04ecf51e0cbc8dfd7bc2ed08eef7ac4ed748d47cd59539fdfb4bc",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_230/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_231",
+      "image": {
+        "sha256": "611fd4153619eecb593aa69a1a21045895e297915463e584b129a6375e7e3731",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_231/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "ba21ff9103107790489dc622427b1f599ffe4570253df519fb95a315f51fb004",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_231/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_232",
+      "image": {
+        "sha256": "408a083ffadb7a6e4d1f0b48413badc91066617d5ce58c917949f893d46b37c9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_232/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "a884c556d095ad23b8db04dcabb014a988c6b57c85bccf4d750e8c142cdb2408",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_232/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_234",
+      "image": {
+        "sha256": "9e9abecb6ab77faf8bfb5ed45611d7576f77f2c171f1d1ec07be141a49faee1b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_234/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "4f9ffb871c62c0a21e11cbb5e8c98bda6779d38c3588527e5579fac5babd2af5",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_234/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_266",
+      "image": {
+        "sha256": "a3d9a2edc65fe532b056c602189a49b5be7d50a688ef289cc371c47b0473640f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_266/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "1c94d1a2f45cb60f4efe87eada9950b56e02c9abc932189849ade8189dafe495",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_266/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_267",
+      "image": {
+        "sha256": "7ab7544b00671fc2cd223457ce4bd321d0c9eb6bb7c13ffc91b754309e921823",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_267/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "9248e891316fc28aadd0798c1aaff09422e59245ad7f2c5b33447bb85a53ab6c",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_267/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_268",
+      "image": {
+        "sha256": "b634744de9be432a77bff2db04fe61bb77d135dd98afc1145e96f4e5c1ba82f3",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_268/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "2600262bf0bb5a07962401cc5136f06b7aaba48756da418bc73ff2678b3ab8fd",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_268/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_269",
+      "image": {
+        "sha256": "0d11177ddb88a11098474b6c7a85c947341978d6bb9e7e624e7044cca73314ab",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_269/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "2b7ddf19eced3294c636cae4a7ae4af729a194e72fdaf58ea7a316924e4dc902",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_269/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_270",
+      "image": {
+        "sha256": "5c394ca01ce45cb70586782d8aa98466555c9cd36fb1d65f5384191f39051321",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_270/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "55c649a7491d8f7dfbedcb939f1b6992c557d9dcb78ae4c4e33e8a835bf974e4",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_270/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_274",
+      "image": {
+        "sha256": "9d2eb1086501ab1f7bc3cb46be85e774576b77efb50161fe2eea6b906ea61b86",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_274/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "9d2ac3a474111b1ce3e8241e31c57fdf49e814ea0e25a642861bb24ae73328a9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_274/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_275",
+      "image": {
+        "sha256": "3988e7d69b1e4f6690bbf9394e48790355b23aeb2502d08d998ae11b69b99069",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_275/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "35074a692dfcf612ca685413f52432fad619b42f8c834545a9c6034aee5008bc",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_275/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_276",
+      "image": {
+        "sha256": "6f5ed69a279ac5b893653a0f3786c27606b9f695ded7427c79aa73fcddd5240d",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_276/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "21e86248406345ab676d624f34d84d1753a9599979b0790436aaf2cd7524c1db",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_276/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_277",
+      "image": {
+        "sha256": "4a3e94eb005a09bbe2a2f3c0eb8a8d32edc1d9b2fcb8f48df6547452ea30da5f",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_277/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "5ee43c9accda551b25241d10be99f0b3c6e28e4e21c8b61c5cc6d8d6856d8bd8",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_277/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_278",
+      "image": {
+        "sha256": "035293f441c9234a9734292e902b441c2e593fb74b504259db7a1fa2a9ac83a3",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_278/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "1a2e1fcdd67e7f9a4d61229531f9f597c789cd3f6da6949a8cd3fbca96dccfaf",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_278/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_397",
+      "image": {
+        "sha256": "6cf7ac436e6abe6ce8cd15fc4805c5d9cf1e932a36c6055183ac8cc897a20c20",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_397/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "d89f65911c4a96c903675f52b18c390390c9a330f3024cfeec25eb70d2d89323",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_397/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_398",
+      "image": {
+        "sha256": "0d7845e8c0af56a8689747b3f7c9adca695a9c1f797f0a7488bc2e25e5139da4",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_398/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "0aa87f5750368301f23ad6a20acab826c18d6ac66009905bceb3dfb95b6b4bb0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_398/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_399",
+      "image": {
+        "sha256": "36bc5efa9ffcda9e96025ffc8f5e33e331ef12e067479784a625c7b9e9ea898e",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_399/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "603535e11ff7393fbe2721b7da621e2d7d965091176ddd062ebf0b284c1a6877",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_399/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_400",
+      "image": {
+        "sha256": "e9b02eb7182892e20d34d9d8299136905e91b70660437e89ee5abdda6d3ba092",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_400/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "564ac7bc93c394f7c49c5872550f8d95c9015655d46fc0709c34d6fc7a9c1f58",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_400/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_401",
+      "image": {
+        "sha256": "fe7eba3ffda3cd246ebd9095621eaee23da49045971ebaef98658f44015dd459",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_401/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "e3d910358936ef9d7097b46885d8134694c2ad75dfa55c6b29f10de416102da7",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_401/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_518",
+      "image": {
+        "sha256": "e38055d4af83c41e92b2da5ab048730612a1480992ab7495bb09eab594193e48",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_518/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "1724a050bd8567c5369a7a0b2fc52694e4fdd79957a0059f67325eaddae0cdd6",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_518/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_519",
+      "image": {
+        "sha256": "5ad94e245e8172361cc99e8020f6d32956e9ba3ccd1e6408045352e2aef18f7b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_519/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "2c937f1ae45a2b123a33de60daf35189b4443b8ee6e77beaa92cc3006414d440",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_519/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_521",
+      "image": {
+        "sha256": "15efcbe1dec3abf3a6e41d2f6420c8fc53b02726a580d2fc910c51a064c5ea36",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_521/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "7c834d25cd5708c65d0f0ad3d62b0827469d180a92f4f6db9e7dec22887c99b9",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_521/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_522",
+      "image": {
+        "sha256": "22eaba7ad5a6e15d91d3e7755fc5c9edf3d8d25639866523402e94c166682c70",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_522/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "991f20d9246e960f5b378a467b6792007afb033af0e2a8b77aeff81f8c13b224",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_522/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_523",
+      "image": {
+        "sha256": "3c68197637a0debff3501d69e28a73a26175f248a0e3106b3715f2a818def486",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_523/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "bb51a514cb3da0b59c07124ec54b080205792cc435ff6e6107e1b0b60e414f30",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_523/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_524",
+      "image": {
+        "sha256": "2281a224e2878d7e256f929ec776c6856201283062852e3b76064cac8c312ef0",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_524/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "ed4406fb875095d52182631a47c6773799a262384181fe67f6c492e4e7475c37",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_524/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_525",
+      "image": {
+        "sha256": "682d28917fba02ec99e664d5e7016245e21fa6d4744a672b0932fd3ec2d97443",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_525/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "100b8ebf722c4c9b78e3ba3f05dfd0124a6dff67e340b796a605bb3782116599",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_525/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_526",
+      "image": {
+        "sha256": "269e2c8d211ffb47bf21bb555c3d13dc7087c1e495f2276318131dba48894dfe",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_526/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "7c02f65688e323cb4ea9c9bfaae01c52050e49d6d7999b484d4ee0b9d9ec6249",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_526/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_527",
+      "image": {
+        "sha256": "064030e3c5f658e5b734afef31b4fdcd7b1e4760af28fb9f5eea240a453b19b8",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_527/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "78df6e4c7a9185ebb01af0333c7eabb151e04d96ef0625532d132ac04a33a354",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_527/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_528",
+      "image": {
+        "sha256": "92d1d515cfa766610ebfc4ea5a279e9aef2fc96b10c9d1c273479bdc8b5a164d",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_528/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "84e900192c25b40db57827e0c43c1174030900fe908b8978cefc68e50e62812b",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_528/mask.nii.gz"
+      }
+    },
+    {
+      "key": "ixi_mra_553",
+      "image": {
+        "sha256": "1f25b28768b42817d4f01dfb06bab588befc3dcb3960c9af726d459708654525",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_553/image.nii.gz"
+      },
+      "mask": {
+        "sha256": "1da189250c852fef42df79d570325ea6b9e85baa35c986e9b7ecbe3b6d4f3d11",
+        "url": "https://huggingface.co/datasets/MedOtter/SynthStrip/resolve/d5a92c65c549b2a099bdb5a6e61ebeed6cb6eca3/synthstrip_data_v1.5/ixi_mra_553/mask.nii.gz"
+      }
+    }
+  ],
+  "ct_archive": "https://zenodo.org/records/10047292/files/Totalsegmentator_dataset_v201.zip?download=1",
+  "ct_edition": "TotalSegmentator dataset v2.0.1 (Wasserthal et al.), CC BY 4.0",
+  "ct_scans": [
+    {
+      "key": "ts_s0933",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0933/ct.nii.gz",
+        "offset": 20489312835,
+        "compressed_size": 50244616,
+        "compress_type": 8,
+        "sha256": "84131901e45134b41de94ab80b74a6ac94deca8e8d95c947a2c5a95756bd5b1f"
+      },
+      "clavicula_left": {
+        "member": "s0933/segmentations/clavicula_left.nii.gz",
+        "offset": 20540507257,
+        "compressed_size": 5380,
+        "compress_type": 8,
+        "sha256": "efb094d1ef8ab82bc26534fe56b6389e16f02b9e79892993f1b6e44f519bda8c"
+      },
+      "clavicula_right": {
+        "member": "s0933/segmentations/clavicula_right.nii.gz",
+        "offset": 20540512708,
+        "compressed_size": 5754,
+        "compress_type": 8,
+        "sha256": "e98ddac8ce57129fa8c464d3e16f053097c00062eaa681685c0254f6052bc255"
+      },
+      "skull": {
+        "member": "s0933/segmentations/skull.nii.gz",
+        "offset": 20541094634,
+        "compressed_size": 114351,
+        "compress_type": 8,
+        "sha256": "db0d9348e0d2a8c7e2367d8b9f02bca431f92a7d232d9c483f332b9f326c5488"
+      }
+    },
+    {
+      "key": "ts_s0754",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0754/ct.nii.gz",
+        "offset": 23290926658,
+        "compressed_size": 49547279,
+        "compress_type": 8,
+        "sha256": "9dc3491f01a47186b96eb8bb60589608e37bace5eb08091d5a55cf9325879f29"
+      },
+      "clavicula_left": {
+        "member": "s0754/segmentations/clavicula_left.nii.gz",
+        "offset": 23341545025,
+        "compressed_size": 9070,
+        "compress_type": 8,
+        "sha256": "b99c6c1a68f2d6cd95fdba2615406e526d1a202bc3ea5c09ab53698e5d5ccad8"
+      },
+      "clavicula_right": {
+        "member": "s0754/segmentations/clavicula_right.nii.gz",
+        "offset": 23341554166,
+        "compressed_size": 8117,
+        "compress_type": 8,
+        "sha256": "881b6a7848f2c472d62abdf8e07251ddc04613e50fb87b2179c8f9d23c0daa83"
+      },
+      "skull": {
+        "member": "s0754/segmentations/skull.nii.gz",
+        "offset": 23342213914,
+        "compressed_size": 126756,
+        "compress_type": 8,
+        "sha256": "a2cfaa9268f13e58e3ed3dabcd9a9ea8fe58312517fe92a9375ecdebef52ff98"
+      }
+    },
+    {
+      "key": "ts_s1045",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1045/ct.nii.gz",
+        "offset": 18478346511,
+        "compressed_size": 42726878,
+        "compress_type": 8,
+        "sha256": "f9727bc02cc7e9925cb75c369fa23f783659ad691051ee8148e95ea647707b6a"
+      },
+      "clavicula_left": {
+        "member": "s1045/segmentations/clavicula_left.nii.gz",
+        "offset": 18522160779,
+        "compressed_size": 6846,
+        "compress_type": 8,
+        "sha256": "440ae70bc3259cef6804a2af3b0418c6b656299b01c006a802ff0567464fbf26"
+      },
+      "clavicula_right": {
+        "member": "s1045/segmentations/clavicula_right.nii.gz",
+        "offset": 18522167696,
+        "compressed_size": 7120,
+        "compress_type": 8,
+        "sha256": "e57627b543ab74df4eb85d7f917c1570f05c133501b515fc585ba4a2982aea7e"
+      },
+      "skull": {
+        "member": "s1045/segmentations/skull.nii.gz",
+        "offset": 18522691445,
+        "compressed_size": 57932,
+        "compress_type": 8,
+        "sha256": "d27cf2a90274039a782387ecadf5ade0eb0651a438cd4b8fc40345c816bea62f"
+      }
+    },
+    {
+      "key": "ts_s0616",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0616/ct.nii.gz",
+        "offset": 7274286710,
+        "compressed_size": 49846448,
+        "compress_type": 8,
+        "sha256": "c6376f4e24880a5f79d5c4f9bba14eda26c12f565fb9461f8a2dbaa40cc8e621"
+      },
+      "clavicula_left": {
+        "member": "s0616/segmentations/clavicula_left.nii.gz",
+        "offset": 7325155579,
+        "compressed_size": 5656,
+        "compress_type": 8,
+        "sha256": "a102bb43a452d9576e2f68b32f9f0068980feb9d654916d78868c0250b84a8d2"
+      },
+      "clavicula_right": {
+        "member": "s0616/segmentations/clavicula_right.nii.gz",
+        "offset": 7325161306,
+        "compressed_size": 6208,
+        "compress_type": 8,
+        "sha256": "20535227533068532495ac7247f33980baec0f7d37c655d270da04a3f0b359cd"
+      },
+      "skull": {
+        "member": "s0616/segmentations/skull.nii.gz",
+        "offset": 7325747669,
+        "compressed_size": 124367,
+        "compress_type": 8,
+        "sha256": "1788e5d4e592653d75407d4a04635521cb77e88fd50e7f19afaa41fbaa0f680c"
+      }
+    },
+    {
+      "key": "ts_s0224",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0224/ct.nii.gz",
+        "offset": 1622235093,
+        "compressed_size": 68193658,
+        "compress_type": 8,
+        "sha256": "b69b742e5a3fe3638cb978383c9e4da1f4e5aae34ac53960034b703d523272a0"
+      },
+      "clavicula_left": {
+        "member": "s0224/segmentations/clavicula_left.nii.gz",
+        "offset": 1691557475,
+        "compressed_size": 8730,
+        "compress_type": 8,
+        "sha256": "25950085486c3b3b54f610ad3ffdf35a6a620cdeb32c18fcd725a6ffff9b122c"
+      },
+      "clavicula_right": {
+        "member": "s0224/segmentations/clavicula_right.nii.gz",
+        "offset": 1691566276,
+        "compressed_size": 8379,
+        "compress_type": 8,
+        "sha256": "ba0c202367f5c6bd0ccaa411e0bcd9cc49f823c3d527f1e3d1f1d8f072974c98"
+      },
+      "skull": {
+        "member": "s0224/segmentations/skull.nii.gz",
+        "offset": 1692187804,
+        "compressed_size": 121453,
+        "compress_type": 8,
+        "sha256": "df8e3eb8c8e8a83e4613ee26e65c9ff74d23ceaf375d7a435b167f1847518ba3"
+      }
+    },
+    {
+      "key": "ts_s1249",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1249/ct.nii.gz",
+        "offset": 14840014088,
+        "compressed_size": 63246679,
+        "compress_type": 8,
+        "sha256": "5b5e596f17168cfdf8c902706f0ae93b81aa5f1307c0ed6e4f477bde8d197347"
+      },
+      "clavicula_left": {
+        "member": "s1249/segmentations/clavicula_left.nii.gz",
+        "offset": 14904239681,
+        "compressed_size": 5235,
+        "compress_type": 8,
+        "sha256": "c38dedbc763b5eeece1b5c3450c9499b46f96baede29b588a5a73b264f5a6f16"
+      },
+      "clavicula_right": {
+        "member": "s1249/segmentations/clavicula_right.nii.gz",
+        "offset": 14904244987,
+        "compressed_size": 5695,
+        "compress_type": 8,
+        "sha256": "6110f0e4a84b3d9f1d7e75e659f88b76f8c6345b6edf4104ecc744d41aeec760"
+      },
+      "skull": {
+        "member": "s1249/segmentations/skull.nii.gz",
+        "offset": 14904783149,
+        "compressed_size": 116009,
+        "compress_type": 8,
+        "sha256": "33d1ac2b410eb78a06c525304e30c10d70dcc683af307e1d8eaa2838171aeaf8"
+      }
+    },
+    {
+      "key": "ts_s0986",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0986/ct.nii.gz",
+        "offset": 19635383415,
+        "compressed_size": 31401874,
+        "compress_type": 8,
+        "sha256": "e47e4fad21c6f38b02b257e7dce40f18b24c91e4f51937546b0f2644fe527a8a"
+      },
+      "clavicula_left": {
+        "member": "s0986/segmentations/clavicula_left.nii.gz",
+        "offset": 19667525497,
+        "compressed_size": 5482,
+        "compress_type": 8,
+        "sha256": "cc126ba2aa7ebbc19490703107095d9408c4576039e619386f9d593304ce9272"
+      },
+      "clavicula_right": {
+        "member": "s0986/segmentations/clavicula_right.nii.gz",
+        "offset": 19667531050,
+        "compressed_size": 5354,
+        "compress_type": 8,
+        "sha256": "8b4831a594410fb7cdfa256a938f0412888dcf68fe70ea3068715716280312d9"
+      },
+      "skull": {
+        "member": "s0986/segmentations/skull.nii.gz",
+        "offset": 19667997596,
+        "compressed_size": 50668,
+        "compress_type": 8,
+        "sha256": "9de7e50e304831025f61dc69f6a8e50a3af878752ede1f5bff1653253ce2a592"
+      }
+    },
+    {
+      "key": "ts_s1089",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1089/ct.nii.gz",
+        "offset": 17918638515,
+        "compressed_size": 51061903,
+        "compress_type": 8,
+        "sha256": "ae7208c672affa23e2e6cbce83c517e217038aa797b53eeb1964ccfa3b72f6a3"
+      },
+      "clavicula_left": {
+        "member": "s1089/segmentations/clavicula_left.nii.gz",
+        "offset": 17970834073,
+        "compressed_size": 6976,
+        "compress_type": 8,
+        "sha256": "205211ee8a847bd51a4e7848148662dd3e3c7a59b310f62d6c3143c8d8828e4d"
+      },
+      "clavicula_right": {
+        "member": "s1089/segmentations/clavicula_right.nii.gz",
+        "offset": 17970841120,
+        "compressed_size": 7609,
+        "compress_type": 8,
+        "sha256": "b2eb3690731646696403875f3276de6ff85cff4fbaa760e112b201249e6a1fdc"
+      },
+      "skull": {
+        "member": "s1089/segmentations/skull.nii.gz",
+        "offset": 17971344678,
+        "compressed_size": 39326,
+        "compress_type": 8,
+        "sha256": "f74a49e8b996278fe42b53f25c19be92a97809943da8587852f0c7742141a650"
+      }
+    },
+    {
+      "key": "ts_s0812",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0812/ct.nii.gz",
+        "offset": 22289301911,
+        "compressed_size": 67719088,
+        "compress_type": 8,
+        "sha256": "6c6eeecfdf9813ed3179092369400486379f5a896a07f6fc0891af9d3d80cd04"
+      },
+      "clavicula_left": {
+        "member": "s0812/segmentations/clavicula_left.nii.gz",
+        "offset": 22357983606,
+        "compressed_size": 6681,
+        "compress_type": 8,
+        "sha256": "f00d620f4e4e12d4104e11ce886a898bb4cd81bd8071008bcf7342447dcfc289"
+      },
+      "clavicula_right": {
+        "member": "s0812/segmentations/clavicula_right.nii.gz",
+        "offset": 22357990358,
+        "compressed_size": 6718,
+        "compress_type": 8,
+        "sha256": "023db586d6858bebf34642a4cb816b088c6861f5948eb684ba27a786ab19a8aa"
+      },
+      "skull": {
+        "member": "s0812/segmentations/skull.nii.gz",
+        "offset": 22358398800,
+        "compressed_size": 54649,
+        "compress_type": 8,
+        "sha256": "99f01a24acfdd8bc3c2ab8b8a891ee7a16032c675b3de991aeb346938171e5aa"
+      }
+    },
+    {
+      "key": "ts_s1369",
+      "study_type": "ct whole body",
+      "image": {
+        "member": "s1369/ct.nii.gz",
+        "offset": 19487872730,
+        "compressed_size": 54168571,
+        "compress_type": 8,
+        "sha256": "89131f7c75073bbed2818dcbc25f838396b68d3c9f0d87731367a4a48f295c3b"
+      },
+      "clavicula_left": {
+        "member": "s1369/segmentations/clavicula_left.nii.gz",
+        "offset": 19542909470,
+        "compressed_size": 5755,
+        "compress_type": 8,
+        "sha256": "c5468272ba1fce30ea8c5df6382fd74f6739e30c33d690fed6cc3bebdd524398"
+      },
+      "clavicula_right": {
+        "member": "s1369/segmentations/clavicula_right.nii.gz",
+        "offset": 19542915296,
+        "compressed_size": 5589,
+        "compress_type": 8,
+        "sha256": "ae0d86fa8e06e7daf21b70def6b0ccdbbc25f64b29399a052d29935a58c8f021"
+      },
+      "skull": {
+        "member": "s1369/segmentations/skull.nii.gz",
+        "offset": 19543297752,
+        "compressed_size": 49877,
+        "compress_type": 8,
+        "sha256": "96ce1df67b842ec4bb18a8999125ea50d7d155c2f2093245085aede29fb7800b"
+      }
+    },
+    {
+      "key": "ts_s1152",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1152/ct.nii.gz",
+        "offset": 16514942522,
+        "compressed_size": 65403547,
+        "compress_type": 8,
+        "sha256": "27022e6168930d769a5d50c7a0922e90aafd00110e63c3657ab1faa7a73693e6"
+      },
+      "clavicula_left": {
+        "member": "s1152/segmentations/clavicula_left.nii.gz",
+        "offset": 16581252911,
+        "compressed_size": 6770,
+        "compress_type": 8,
+        "sha256": "c91e8658b57cd4530cf5fb2879fec4effabad7682b27d5afc444972c12eaff7c"
+      },
+      "clavicula_right": {
+        "member": "s1152/segmentations/clavicula_right.nii.gz",
+        "offset": 16581259752,
+        "compressed_size": 6085,
+        "compress_type": 8,
+        "sha256": "4b4ad63386666b46dcdbabac8feb46d12571c13a48e276d12f3eb2eadea69ae0"
+      },
+      "skull": {
+        "member": "s1152/segmentations/skull.nii.gz",
+        "offset": 16581670864,
+        "compressed_size": 112510,
+        "compress_type": 8,
+        "sha256": "5e6a5e5e522aab76623e5f6e56aa60884f81e2714c4a725b2c950450b520b341"
+      }
+    },
+    {
+      "key": "ts_s1397",
+      "study_type": "ct whole body",
+      "image": {
+        "member": "s1397/ct.nii.gz",
+        "offset": 12876040341,
+        "compressed_size": 60605228,
+        "compress_type": 8,
+        "sha256": "3a1c65375bab90a4387bc468dd6e433d434d5304d346f0b737aa4e3e21941c82"
+      },
+      "clavicula_left": {
+        "member": "s1397/segmentations/clavicula_left.nii.gz",
+        "offset": 12937643725,
+        "compressed_size": 8154,
+        "compress_type": 8,
+        "sha256": "2d722f9322516ccb3462f7c34c44a5e2a9de14f8ca8896f0f65a0663d7ba1832"
+      },
+      "clavicula_right": {
+        "member": "s1397/segmentations/clavicula_right.nii.gz",
+        "offset": 12937651950,
+        "compressed_size": 8516,
+        "compress_type": 8,
+        "sha256": "71f03e8644ae5fa7cfece2843882faeacb2b025619abef16a79ebe1af80133fc"
+      },
+      "skull": {
+        "member": "s1397/segmentations/skull.nii.gz",
+        "offset": 12938129234,
+        "compressed_size": 63330,
+        "compress_type": 8,
+        "sha256": "a00e8a8335be74697d94e8eb1a182b450b382f869e4fdcada5aef143ded4a102"
+      }
+    },
+    {
+      "key": "ts_s1304",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1304/ct.nii.gz",
+        "offset": 13890828123,
+        "compressed_size": 58619625,
+        "compress_type": 8,
+        "sha256": "f4a6c43f1e47a3d6ef1a11b3509bf8c4b0c4cd73502563f10b3bbcecb4fc7d70"
+      },
+      "clavicula_left": {
+        "member": "s1304/segmentations/clavicula_left.nii.gz",
+        "offset": 13950479796,
+        "compressed_size": 6495,
+        "compress_type": 8,
+        "sha256": "fed3fbf24551ad50be15c0570948123c60f5712ad6c1db0e0bcff84dca3a58ae"
+      },
+      "clavicula_right": {
+        "member": "s1304/segmentations/clavicula_right.nii.gz",
+        "offset": 13950486362,
+        "compressed_size": 6657,
+        "compress_type": 8,
+        "sha256": "09f0c62f1be10737dda66df37992507423150008df142c3a5a7fcc3dc322b720"
+      },
+      "skull": {
+        "member": "s1304/segmentations/skull.nii.gz",
+        "offset": 13950930052,
+        "compressed_size": 129539,
+        "compress_type": 8,
+        "sha256": "c9bd6d9b9b230083b18eaef66f90477b6a5f99c7e103c0e0e7eb89b6f385d6e8"
+      }
+    },
+    {
+      "key": "ts_s1314",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1314/ct.nii.gz",
+        "offset": 13685922495,
+        "compressed_size": 59404540,
+        "compress_type": 8,
+        "sha256": "4ba8094a6c540e68ee2ecea59e89c90ed1021c42fbcf8f40c18b599be918c0e8"
+      },
+      "clavicula_left": {
+        "member": "s1314/segmentations/clavicula_left.nii.gz",
+        "offset": 13746040780,
+        "compressed_size": 4893,
+        "compress_type": 8,
+        "sha256": "15d2fcb1e187dc219829f50b8c7cd3cd547bfb0fc4943f79a3c292af4cd3fe1c"
+      },
+      "clavicula_right": {
+        "member": "s1314/segmentations/clavicula_right.nii.gz",
+        "offset": 13746045744,
+        "compressed_size": 4897,
+        "compress_type": 8,
+        "sha256": "99411f989ccbec844d720bc763c4a472b4c48ce848ec88454253b94bc3e57f0a"
+      },
+      "skull": {
+        "member": "s1314/segmentations/skull.nii.gz",
+        "offset": 13746447797,
+        "compressed_size": 106326,
+        "compress_type": 8,
+        "sha256": "480a7b0695e61c0c2d8833002059faaf995f2d681727f25e4b90f66d6ddc56ea"
+      }
+    },
+    {
+      "key": "ts_s1029",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1029/ct.nii.gz",
+        "offset": 18745665368,
+        "compressed_size": 62072440,
+        "compress_type": 8,
+        "sha256": "e47aa89b599f3c710963c70921ac489f45e34da6726d9da79844e5d4f6d18928"
+      },
+      "clavicula_left": {
+        "member": "s1029/segmentations/clavicula_left.nii.gz",
+        "offset": 18808826001,
+        "compressed_size": 3271,
+        "compress_type": 8,
+        "sha256": "874780f079829e29c0751e1f4784fd2fb9d5c603b80f4be84ada323471ccddc5"
+      },
+      "clavicula_right": {
+        "member": "s1029/segmentations/clavicula_right.nii.gz",
+        "offset": 18808829343,
+        "compressed_size": 3167,
+        "compress_type": 8,
+        "sha256": "f478ea2fc81c0a0ed5adf4a8f0919e55a004156ef717aa09edf2d6ed79131d4e"
+      },
+      "skull": {
+        "member": "s1029/segmentations/skull.nii.gz",
+        "offset": 18809066826,
+        "compressed_size": 48959,
+        "compress_type": 8,
+        "sha256": "db665b5678ecfb211cf68de0d00f93c7b58280103aca637993e1f70bb285bde8"
+      }
+    },
+    {
+      "key": "ts_s1123",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1123/ct.nii.gz",
+        "offset": 17238325205,
+        "compressed_size": 49589516,
+        "compress_type": 8,
+        "sha256": "166d0b1f5e1bdd9f24647ef09934f1661900e2d9983812111bd152a0292aaf67"
+      },
+      "clavicula_left": {
+        "member": "s1123/segmentations/clavicula_left.nii.gz",
+        "offset": 17288606564,
+        "compressed_size": 6873,
+        "compress_type": 8,
+        "sha256": "75b62f0efad8512d5141c678eb167da20e6d1e751e755da9c8304dd2b1cf93cd"
+      },
+      "clavicula_right": {
+        "member": "s1123/segmentations/clavicula_right.nii.gz",
+        "offset": 17288613508,
+        "compressed_size": 7008,
+        "compress_type": 8,
+        "sha256": "5feecaa6ba82428a2fbcc7cb8390560846335d158d8b9ae9009e6c0411d07b78"
+      },
+      "skull": {
+        "member": "s1123/segmentations/skull.nii.gz",
+        "offset": 17288861432,
+        "compressed_size": 63463,
+        "compress_type": 8,
+        "sha256": "08239e1f7f1c962160607e904decd0d83c50e5aad50bc4f10e9f76f707e62c40"
+      }
+    },
+    {
+      "key": "ts_s1088",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1088/ct.nii.gz",
+        "offset": 18004638443,
+        "compressed_size": 66739305,
+        "compress_type": 8,
+        "sha256": "07e91513c7dab2d93ff8d0ba94de389e5118147c22908c0e2f651c7da1a18c92"
+      },
+      "clavicula_left": {
+        "member": "s1088/segmentations/clavicula_left.nii.gz",
+        "offset": 18072428870,
+        "compressed_size": 7914,
+        "compress_type": 8,
+        "sha256": "3204a2ffd69a2623d3c847c2ea09a50d7f63c94b7c96e389860e54ddf5a02e60"
+      },
+      "clavicula_right": {
+        "member": "s1088/segmentations/clavicula_right.nii.gz",
+        "offset": 18072436855,
+        "compressed_size": 6002,
+        "compress_type": 8,
+        "sha256": "4137daeaa762450a7cbb01b0677fbb2c16eb7dd4ba4dd0dc6b4c198f7f9e444a"
+      },
+      "skull": {
+        "member": "s1088/segmentations/skull.nii.gz",
+        "offset": 18072876001,
+        "compressed_size": 115133,
+        "compress_type": 8,
+        "sha256": "4e79357d66655191be724a5d9c1e42bf31d93a863a4b76e9c25d8e0108ded1cf"
+      }
+    },
+    {
+      "key": "ts_s1161",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1161/ct.nii.gz",
+        "offset": 16263103064,
+        "compressed_size": 54918799,
+        "compress_type": 8,
+        "sha256": "c4f932b1f9d5790b71888a078bee8bbffd662ff8d47f200cf576f7769986cc54"
+      },
+      "clavicula_left": {
+        "member": "s1161/segmentations/clavicula_left.nii.gz",
+        "offset": 16319116699,
+        "compressed_size": 7185,
+        "compress_type": 8,
+        "sha256": "dd2a85607b387f9c56ba36fcca2872e07c94f19514619db3c0bebede6588d2d0"
+      },
+      "clavicula_right": {
+        "member": "s1161/segmentations/clavicula_right.nii.gz",
+        "offset": 16319123955,
+        "compressed_size": 7610,
+        "compress_type": 8,
+        "sha256": "a0a911fb2348d70ddb951b972b9613d8ec337c0702b73850e2d30975ee7f31c5"
+      },
+      "skull": {
+        "member": "s1161/segmentations/skull.nii.gz",
+        "offset": 16319540213,
+        "compressed_size": 108855,
+        "compress_type": 8,
+        "sha256": "7abde06ca9d7bfbe72d9320916260a4a45508ed1df43a04606a2ad21a9aa77dd"
+      }
+    },
+    {
+      "key": "ts_s1171",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1171/ct.nii.gz",
+        "offset": 16169346685,
+        "compressed_size": 64672012,
+        "compress_type": 8,
+        "sha256": "5270c83de2786791318b8a3f971af3568cb30b67ba66b0010a7fe370a66c1974"
+      },
+      "clavicula_left": {
+        "member": "s1171/segmentations/clavicula_left.nii.gz",
+        "offset": 16234918725,
+        "compressed_size": 6870,
+        "compress_type": 8,
+        "sha256": "2446b770f702d2f93aed529bc1d8d08f711caaeb815a532e8def3c7108718d1c"
+      },
+      "clavicula_right": {
+        "member": "s1171/segmentations/clavicula_right.nii.gz",
+        "offset": 16234925666,
+        "compressed_size": 6385,
+        "compress_type": 8,
+        "sha256": "ce9afe55974de27920d9d580933bc06c2547064ad9ba5921c1d6257b8900965d"
+      },
+      "skull": {
+        "member": "s1171/segmentations/skull.nii.gz",
+        "offset": 16235192921,
+        "compressed_size": 118486,
+        "compress_type": 8,
+        "sha256": "a626dc672d7985ca14389cee43595655ddacaf98c491a230e8036fb0fb6e9c4f"
+      }
+    },
+    {
+      "key": "ts_s1380",
+      "study_type": "ct whole body",
+      "image": {
+        "member": "s1380/ct.nii.gz",
+        "offset": 21640839787,
+        "compressed_size": 57223672,
+        "compress_type": 8,
+        "sha256": "3b287499a0e25a7d901062b69c69b5c8d2575cf381bd669cd4554a6e2a43ef6a"
+      },
+      "clavicula_left": {
+        "member": "s1380/segmentations/clavicula_left.nii.gz",
+        "offset": 21698788115,
+        "compressed_size": 5849,
+        "compress_type": 8,
+        "sha256": "426d4051ec662fdca64ae1e03c093cef759ff609c63e6d216068ce28b88369f8"
+      },
+      "clavicula_right": {
+        "member": "s1380/segmentations/clavicula_right.nii.gz",
+        "offset": 21698794035,
+        "compressed_size": 6211,
+        "compress_type": 8,
+        "sha256": "db5fc0902baf3d57b09e2812820ed577a79935af7d1bb2a434eced295e518d7e"
+      },
+      "skull": {
+        "member": "s1380/segmentations/skull.nii.gz",
+        "offset": 21699230709,
+        "compressed_size": 112279,
+        "compress_type": 8,
+        "sha256": "c79ace38f98ebdd2a0ee6b19472efaebf9d6710328b16751c34c812bb319134f"
+      }
+    },
+    {
+      "key": "ts_s1082",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1082/ct.nii.gz",
+        "offset": 18073104001,
+        "compressed_size": 63107024,
+        "compress_type": 8,
+        "sha256": "b042f63ee7aaf55f862300386ffc7f2690143f48640270de83f810291672bf81"
+      },
+      "clavicula_left": {
+        "member": "s1082/segmentations/clavicula_left.nii.gz",
+        "offset": 18137226840,
+        "compressed_size": 2722,
+        "compress_type": 8,
+        "sha256": "ae105f5a67e9be72759a440600bc8d369cc797213d803e221b3e351244588d30"
+      },
+      "clavicula_right": {
+        "member": "s1082/segmentations/clavicula_right.nii.gz",
+        "offset": 18137229633,
+        "compressed_size": 3105,
+        "compress_type": 8,
+        "sha256": "4a7ee46a8b74989963b2007ae54c0abffda337b351416a1038a2aecfdb3f2b4c"
+      },
+      "skull": {
+        "member": "s1082/segmentations/skull.nii.gz",
+        "offset": 18137602250,
+        "compressed_size": 120161,
+        "compress_type": 8,
+        "sha256": "72c9dfc36e7747afb075b0d764b3cd7bb7beb88dff64069220e7b19fdc62febf"
+      }
+    },
+    {
+      "key": "ts_s1321",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1321/ct.nii.gz",
+        "offset": 13560968521,
+        "compressed_size": 44370929,
+        "compress_type": 8,
+        "sha256": "f10fd819cb58fa99e23ee817d406b67a966eec8559ef7449545963ca75da9146"
+      },
+      "clavicula_left": {
+        "member": "s1321/segmentations/clavicula_left.nii.gz",
+        "offset": 13606170083,
+        "compressed_size": 5811,
+        "compress_type": 8,
+        "sha256": "6a203eb6f84731ffc92fae6a9d4e7fe078b5d6bdf8cb8d3f67ef8c00c8e0f2a3"
+      },
+      "clavicula_right": {
+        "member": "s1321/segmentations/clavicula_right.nii.gz",
+        "offset": 13606175965,
+        "compressed_size": 4700,
+        "compress_type": 8,
+        "sha256": "64491fca47afda5e5fd3a86b0ea112b74483f50c6d39476acb05545688a75b4d"
+      },
+      "skull": {
+        "member": "s1321/segmentations/skull.nii.gz",
+        "offset": 13606514286,
+        "compressed_size": 111976,
+        "compress_type": 8,
+        "sha256": "e71fdbc99f22da3e9328bcaae4c047fd3aaf0ee8d8a550fb2a7bda980a7a4ddd"
+      }
+    },
+    {
+      "key": "ts_s1350",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1350/ct.nii.gz",
+        "offset": 13078860739,
+        "compressed_size": 54894927,
+        "compress_type": 8,
+        "sha256": "f0178b02e19f57274888242cff0e08f4881148b9e4a13790c17862514a7ba64f"
+      },
+      "clavicula_left": {
+        "member": "s1350/segmentations/clavicula_left.nii.gz",
+        "offset": 13134678791,
+        "compressed_size": 4902,
+        "compress_type": 8,
+        "sha256": "3ac3a0c77d7d017700d1e62eab80d742099f13837d7dcd59a7de7ded688b084f"
+      },
+      "clavicula_right": {
+        "member": "s1350/segmentations/clavicula_right.nii.gz",
+        "offset": 13134683764,
+        "compressed_size": 4332,
+        "compress_type": 8,
+        "sha256": "6cf66d9e6e02ba7a5c682b8ee26cbe2b7e77a294a72c241a86185e8bc3a39c7b"
+      },
+      "skull": {
+        "member": "s1350/segmentations/skull.nii.gz",
+        "offset": 13135037590,
+        "compressed_size": 110613,
+        "compress_type": 8,
+        "sha256": "fc09ce03f6ee1cefe67c19d15d4782da1881f33277000084cb146122608d846e"
+      }
+    },
+    {
+      "key": "ts_s0690",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0690/ct.nii.gz",
+        "offset": 5797426555,
+        "compressed_size": 32152492,
+        "compress_type": 8,
+        "sha256": "7db28819f064f2675a9f9c8af25cffc1679992151c98f79a9a3c7c8df9f97c04"
+      },
+      "clavicula_left": {
+        "member": "s0690/segmentations/clavicula_left.nii.gz",
+        "offset": 5830373090,
+        "compressed_size": 5062,
+        "compress_type": 8,
+        "sha256": "14cc0a30355eb6be8494bb30c66a5c7e14276e81f6131151bb502356d40ef44a"
+      },
+      "clavicula_right": {
+        "member": "s0690/segmentations/clavicula_right.nii.gz",
+        "offset": 5830378223,
+        "compressed_size": 4350,
+        "compress_type": 8,
+        "sha256": "6dc70d4892864e6bf578822f968d4bbe5c8460b69aeaa955680634a077487ca5"
+      },
+      "skull": {
+        "member": "s0690/segmentations/skull.nii.gz",
+        "offset": 5830739624,
+        "compressed_size": 88684,
+        "compress_type": 8,
+        "sha256": "d03f227a3e63ccb66f009927a218584bbc3e729f26bf5be8e12caee44bb131b4"
+      }
+    },
+    {
+      "key": "ts_s0790",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0790/ct.nii.gz",
+        "offset": 22852592499,
+        "compressed_size": 53663222,
+        "compress_type": 8,
+        "sha256": "b3815d049ddecea8cf44ffe494979bb81d819b5eb864f0947e890c9389ee7357"
+      },
+      "clavicula_left": {
+        "member": "s0790/segmentations/clavicula_left.nii.gz",
+        "offset": 22907001727,
+        "compressed_size": 4363,
+        "compress_type": 8,
+        "sha256": "b1dd76daed9a6f3ad045ae3bb1e7a2d2f3e5b45550320d2cb417c1e1757db555"
+      },
+      "clavicula_right": {
+        "member": "s0790/segmentations/clavicula_right.nii.gz",
+        "offset": 22907006161,
+        "compressed_size": 4079,
+        "compress_type": 8,
+        "sha256": "f59a3741f1457a2910837570b89f210e0bbc0804f9e53ec2b11b2eebb24b517f"
+      },
+      "skull": {
+        "member": "s0790/segmentations/skull.nii.gz",
+        "offset": 22907366066,
+        "compressed_size": 106263,
+        "compress_type": 8,
+        "sha256": "310774b3e8fde9ae51d60aa6bd565d3b75b111abdb100d9b665357ed575c7cc7"
+      }
+    },
+    {
+      "key": "ts_s1206",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1206/ct.nii.gz",
+        "offset": 15610075660,
+        "compressed_size": 46612158,
+        "compress_type": 8,
+        "sha256": "d62982bf791fa77e824bbe57b27ee7dce1134e1922bba6ebe6ddb95106344dab"
+      },
+      "clavicula_left": {
+        "member": "s1206/segmentations/clavicula_left.nii.gz",
+        "offset": 15657246746,
+        "compressed_size": 6111,
+        "compress_type": 8,
+        "sha256": "17a4a627002b37e8baca971d8e0d082cd1907f3e5cb769654f6de6bfb87417af"
+      },
+      "clavicula_right": {
+        "member": "s1206/segmentations/clavicula_right.nii.gz",
+        "offset": 15657252928,
+        "compressed_size": 5758,
+        "compress_type": 8,
+        "sha256": "7d256bc53db16e51497b6ee8072d016372ef7fa9a4c206c76c767101eb5e1581"
+      },
+      "skull": {
+        "member": "s1206/segmentations/skull.nii.gz",
+        "offset": 15657609635,
+        "compressed_size": 57645,
+        "compress_type": 8,
+        "sha256": "b30a2a01ac91e503db6d16770e00544a5716ca002c433465c6a08b96cb6dddee"
+      }
+    },
+    {
+      "key": "ts_s1159",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1159/ct.nii.gz",
+        "offset": 16336165032,
+        "compressed_size": 62008621,
+        "compress_type": 8,
+        "sha256": "eb9420e62c75dbc817941afaefae3d72ce2b805e6814bc65e1cab494a4ca2713"
+      },
+      "clavicula_left": {
+        "member": "s1159/segmentations/clavicula_left.nii.gz",
+        "offset": 16398938423,
+        "compressed_size": 2629,
+        "compress_type": 8,
+        "sha256": "0fb4f88630ee48c993ee2abd58ad9da2febd7638ee945cd46cd1ddd4f267b331"
+      },
+      "clavicula_right": {
+        "member": "s1159/segmentations/clavicula_right.nii.gz",
+        "offset": 16398941123,
+        "compressed_size": 2391,
+        "compress_type": 8,
+        "sha256": "5aa1d0a82c9a8053fcc33627468a7fb4c1f254e2509ff773eb867cd85813b5e1"
+      },
+      "skull": {
+        "member": "s1159/segmentations/skull.nii.gz",
+        "offset": 16399317016,
+        "compressed_size": 93191,
+        "compress_type": 8,
+        "sha256": "081cace2a3166c7bbac0d93f31940a7691971df24b56efb6b0840e2b89f7724f"
+      }
+    },
+    {
+      "key": "ts_s0777",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0777/ct.nii.gz",
+        "offset": 22980913986,
+        "compressed_size": 51628586,
+        "compress_type": 8,
+        "sha256": "339690d4da921d7eed902ff70f9000280f3e0dcd3d41027ad69599006ef093bd"
+      },
+      "clavicula_left": {
+        "member": "s0777/segmentations/clavicula_left.nii.gz",
+        "offset": 23033382348,
+        "compressed_size": 6656,
+        "compress_type": 8,
+        "sha256": "05f8594da121ff69ba2451de19910aaf12df37ba9702d09d45d3db18edf7b6af"
+      },
+      "clavicula_right": {
+        "member": "s0777/segmentations/clavicula_right.nii.gz",
+        "offset": 23033389075,
+        "compressed_size": 6764,
+        "compress_type": 8,
+        "sha256": "d6c6c10b3d12490d08626d399b5d6a122e99f8f6300c4d6c8268d9dfcc531df7"
+      },
+      "skull": {
+        "member": "s0777/segmentations/skull.nii.gz",
+        "offset": 23033777131,
+        "compressed_size": 116450,
+        "compress_type": 8,
+        "sha256": "cf55452c89f007cc459f0fac3012d93e1df1e9bd051c5706351f7253883d92eb"
+      }
+    },
+    {
+      "key": "ts_s1124",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1124/ct.nii.gz",
+        "offset": 17191209610,
+        "compressed_size": 45576729,
+        "compress_type": 8,
+        "sha256": "a43902c853c649dbac4606c8bff64fca1c00bbd5cf87821d4c25bf4b49dc4a8f"
+      },
+      "clavicula_left": {
+        "member": "s1124/segmentations/clavicula_left.nii.gz",
+        "offset": 17237738825,
+        "compressed_size": 5779,
+        "compress_type": 8,
+        "sha256": "4f308e6564048cdc72c9026831c40f216b5261b1492b6e90f308397d382ca1c3"
+      },
+      "clavicula_right": {
+        "member": "s1124/segmentations/clavicula_right.nii.gz",
+        "offset": 17237744675,
+        "compressed_size": 5750,
+        "compress_type": 8,
+        "sha256": "8551031b0e14c87ab84c3cc06d10fcaa0749ca7b24fcdce2ec78d4925013e83a"
+      },
+      "skull": {
+        "member": "s1124/segmentations/skull.nii.gz",
+        "offset": 17238171783,
+        "compressed_size": 42651,
+        "compress_type": 8,
+        "sha256": "a9215cc102ec32f6bcaa359721f20d9335ffc942876ebc928fbe020387cec85a"
+      }
+    },
+    {
+      "key": "ts_s0591",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0591/ct.nii.gz",
+        "offset": 7729338883,
+        "compressed_size": 46116271,
+        "compress_type": 8,
+        "sha256": "e189b13e56507394f47ddbd2feacce0b1a6adf94557a8eea08436848124f8e72"
+      },
+      "clavicula_left": {
+        "member": "s0591/segmentations/clavicula_left.nii.gz",
+        "offset": 7776117036,
+        "compressed_size": 5891,
+        "compress_type": 8,
+        "sha256": "564e6cd97e99b5bbd99f41e1189123b775b845d408a4a87755b689008fe4915b"
+      },
+      "clavicula_right": {
+        "member": "s0591/segmentations/clavicula_right.nii.gz",
+        "offset": 7776122998,
+        "compressed_size": 6243,
+        "compress_type": 8,
+        "sha256": "68dd749fad88ba7fe40ec888355cf9befa77b653ba7087d721670f9d7ec28bfb"
+      },
+      "skull": {
+        "member": "s0591/segmentations/skull.nii.gz",
+        "offset": 7776519470,
+        "compressed_size": 113447,
+        "compress_type": 8,
+        "sha256": "c0670013c540d91070f5393bffaec1a563f299518854752602016d6bb8e51c95"
+      }
+    },
+    {
+      "key": "ts_s0751",
+      "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+      "image": {
+        "member": "s0751/ct.nii.gz",
+        "offset": 4667128048,
+        "compressed_size": 36292791,
+        "compress_type": 8,
+        "sha256": "7a87cc6da2cfb4a3a6f895399ec1349f9263e9cfd9aadb0689496b07d8eb028f"
+      },
+      "clavicula_left": {
+        "member": "s0751/segmentations/clavicula_left.nii.gz",
+        "offset": 4704472245,
+        "compressed_size": 7565,
+        "compress_type": 8,
+        "sha256": "3760860bdbf4f8586faef8fe65d019aa7866657b8574adf3d0081fcb8256deda"
+      },
+      "clavicula_right": {
+        "member": "s0751/segmentations/clavicula_right.nii.gz",
+        "offset": 4704479881,
+        "compressed_size": 7503,
+        "compress_type": 8,
+        "sha256": "1fa262c36a53f554864d0c801cadcd9d950ecbc8127038f5a7b21d68e6776587"
+      },
+      "skull": {
+        "member": "s0751/segmentations/skull.nii.gz",
+        "offset": 4704975549,
+        "compressed_size": 20829,
+        "compress_type": 8,
+        "sha256": "55033e4b1c44a69719cc75287bea0738f91b40e748f74557d500ec0a9e3ae1b1"
+      }
+    },
+    {
+      "key": "ts_s0727",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0727/ct.nii.gz",
+        "offset": 5338198676,
+        "compressed_size": 42027754,
+        "compress_type": 8,
+        "sha256": "5c261973bbd6c7bdc1f45c53ca7c4eca53b05cb73f58a44b4922e0c3baa81d28"
+      },
+      "clavicula_left": {
+        "member": "s0727/segmentations/clavicula_left.nii.gz",
+        "offset": 5380818161,
+        "compressed_size": 5432,
+        "compress_type": 8,
+        "sha256": "498b84fc997ecfbd6f46b2591117bdae449c3ca947cd36a34db9e9bb0ab0aa27"
+      },
+      "clavicula_right": {
+        "member": "s0727/segmentations/clavicula_right.nii.gz",
+        "offset": 5380823664,
+        "compressed_size": 5278,
+        "compress_type": 8,
+        "sha256": "a5f6d26799f2b071f147aa0b2662a17610a1e25b4bcae0a70ce23c994aa26a1a"
+      },
+      "skull": {
+        "member": "s0727/segmentations/skull.nii.gz",
+        "offset": 5381156606,
+        "compressed_size": 93264,
+        "compress_type": 8,
+        "sha256": "4d7eaacbfcc6f538cf2ce2a8cb43ca9383dedf1bdab14586db4e5f10597c2640"
+      }
+    },
+    {
+      "key": "ts_s1371",
+      "study_type": "ct whole body",
+      "image": {
+        "member": "s1371/ct.nii.gz",
+        "offset": 16904717187,
+        "compressed_size": 60946892,
+        "compress_type": 8,
+        "sha256": "30a17da2e3d7a6baecb7c04f7a456275fbec7e3c7e9d1b1f508031fd0341dfad"
+      },
+      "clavicula_left": {
+        "member": "s1371/segmentations/clavicula_left.nii.gz",
+        "offset": 16966547252,
+        "compressed_size": 1960,
+        "compress_type": 8,
+        "sha256": "095c10a0588e783282423b38d1c8b8c1f589c6294f91687d6d9156eb71fc5789"
+      },
+      "clavicula_right": {
+        "member": "s1371/segmentations/clavicula_right.nii.gz",
+        "offset": 16966549283,
+        "compressed_size": 1975,
+        "compress_type": 8,
+        "sha256": "8f52fdd2a014c5ab33c06eff54ca2f49425f956c727aa2205867ff5b19d3fb37"
+      },
+      "skull": {
+        "member": "s1371/segmentations/skull.nii.gz",
+        "offset": 16967078524,
+        "compressed_size": 1781,
+        "compress_type": 8,
+        "sha256": "547e5b3ea1263737d311d3c7ddbf2cd6b5942c0271006d2f3576cd2e474120d5"
+      }
+    },
+    {
+      "key": "ts_s1388",
+      "study_type": "ct whole body",
+      "image": {
+        "member": "s1388/ct.nii.gz",
+        "offset": 13452059032,
+        "compressed_size": 56265448,
+        "compress_type": 8,
+        "sha256": "c1404097de0d436b190236d746183ba4f57458f29fb35aa077f1f49759f514da"
+      },
+      "clavicula_left": {
+        "member": "s1388/segmentations/clavicula_left.nii.gz",
+        "offset": 13509035847,
+        "compressed_size": 2556,
+        "compress_type": 8,
+        "sha256": "7cd1043a9690bd0dbf5884bf5799f8c2054e74fdc22d3d3db86519d03a3ab54b"
+      },
+      "clavicula_right": {
+        "member": "s1388/segmentations/clavicula_right.nii.gz",
+        "offset": 13509038474,
+        "compressed_size": 2462,
+        "compress_type": 8,
+        "sha256": "a7aae8edba34d2f41d3e2da12cbe3515094ce8e2cd96bed5148322c2614a7d46"
+      },
+      "skull": {
+        "member": "s1388/segmentations/skull.nii.gz",
+        "offset": 13509261646,
+        "compressed_size": 54134,
+        "compress_type": 8,
+        "sha256": "182cf1a57aa3d1ec7bf227085a3732be77c3aa75e47c0ef6223329622145af13"
+      }
+    },
+    {
+      "key": "ts_s1384",
+      "study_type": "ct whole body",
+      "image": {
+        "member": "s1384/ct.nii.gz",
+        "offset": 17395007170,
+        "compressed_size": 55684100,
+        "compress_type": 8,
+        "sha256": "2024b2c7222ac3f0a2b516f749e9d3d6ff2c250d7dff406580c0667933c3290e"
+      },
+      "clavicula_left": {
+        "member": "s1384/segmentations/clavicula_left.nii.gz",
+        "offset": 17451580773,
+        "compressed_size": 2828,
+        "compress_type": 8,
+        "sha256": "22d28e2ca51787ebe02876490aa64774fd556978de01e448fd9b73541aa6284d"
+      },
+      "clavicula_right": {
+        "member": "s1384/segmentations/clavicula_right.nii.gz",
+        "offset": 17451583672,
+        "compressed_size": 2897,
+        "compress_type": 8,
+        "sha256": "c4168871d0fc6f95a497bc5332050e944b0a04feb273ba3d88acb1e7909dda06"
+      },
+      "skull": {
+        "member": "s1384/segmentations/skull.nii.gz",
+        "offset": 17451772294,
+        "compressed_size": 48004,
+        "compress_type": 8,
+        "sha256": "484624e9e25d06907b599db82204a1007319b2edb1c2c3a6389466f954cdfca8"
+      }
+    },
+    {
+      "key": "ts_s0927",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0927/ct.nii.gz",
+        "offset": 20599341371,
+        "compressed_size": 50556576,
+        "compress_type": 8,
+        "sha256": "2bc21ba414dcff6fc51dcf2fed72a2746e5604ee185c8a3e62a0b0c3bb931f91"
+      },
+      "clavicula_left": {
+        "member": "s0927/segmentations/clavicula_left.nii.gz",
+        "offset": 20650819814,
+        "compressed_size": 5522,
+        "compress_type": 8,
+        "sha256": "a6e2af2634ea5d7528363b04248fcd9d6942913a826fe72fb86e3445d1eb567d"
+      },
+      "clavicula_right": {
+        "member": "s0927/segmentations/clavicula_right.nii.gz",
+        "offset": 20650825407,
+        "compressed_size": 4982,
+        "compress_type": 8,
+        "sha256": "2440e92d1d8fc4e81612281a2d76ead9ed6bc62041672fd1d6ba440990d1fc35"
+      },
+      "skull": {
+        "member": "s0927/segmentations/skull.nii.gz",
+        "offset": 20651241517,
+        "compressed_size": 108778,
+        "compress_type": 8,
+        "sha256": "1de311200fc08d0ca8c5ae9bcebcc7b5e8d31ef489cb26ca554f8725a409420b"
+      }
+    },
+    {
+      "key": "ts_s1349",
+      "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+      "image": {
+        "member": "s1349/ct.nii.gz",
+        "offset": 13036336108,
+        "compressed_size": 40828551,
+        "compress_type": 8,
+        "sha256": "dca8c225c66cb2ded9cb2c7e34c184a5de0302cd1f2c092e8688ed0750608a39"
+      },
+      "clavicula_left": {
+        "member": "s1349/segmentations/clavicula_left.nii.gz",
+        "offset": 13078239981,
+        "compressed_size": 7124,
+        "compress_type": 8,
+        "sha256": "a9c93cf7627c1c29312c16343a2301fd3c1b238f31aa7827a03c7452dda7691c"
+      },
+      "clavicula_right": {
+        "member": "s1349/segmentations/clavicula_right.nii.gz",
+        "offset": 13078247176,
+        "compressed_size": 8070,
+        "compress_type": 8,
+        "sha256": "53d9d2f3f54397b21150f7d21c7c8b2e4b79c56e4f94144d89944750f3554531"
+      },
+      "skull": {
+        "member": "s1349/segmentations/skull.nii.gz",
+        "offset": 13078733116,
+        "compressed_size": 15878,
+        "compress_type": 8,
+        "sha256": "b926943f3ecabdf0d14aa3f54035c0c997b9344d565cc38b2fea46695b731243"
+      }
+    },
+    {
+      "key": "ts_s0763",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0763/ct.nii.gz",
+        "offset": 23166963411,
+        "compressed_size": 49257919,
+        "compress_type": 8,
+        "sha256": "43de869b54aee1d6e4ddff764b54ec8f820fdc518194972b4e9fa93f378f1894"
+      },
+      "clavicula_left": {
+        "member": "s0763/segmentations/clavicula_left.nii.gz",
+        "offset": 23217074673,
+        "compressed_size": 5721,
+        "compress_type": 8,
+        "sha256": "f497f37ac5b00c20779fdbe705d887cf36896330d189ea04ab88559f57bf7023"
+      },
+      "clavicula_right": {
+        "member": "s0763/segmentations/clavicula_right.nii.gz",
+        "offset": 23217080465,
+        "compressed_size": 7177,
+        "compress_type": 8,
+        "sha256": "a9aa1c1ee25a0cd5c2198c3ab47e84df5556942cc3a6d50f1d49f6d46138e45a"
+      },
+      "skull": {
+        "member": "s0763/segmentations/skull.nii.gz",
+        "offset": 23217530099,
+        "compressed_size": 38222,
+        "compress_type": 8,
+        "sha256": "554df43d8246b33f5ea7fb50668f0b4d1dcb103c53336394c3c643bae124291e"
+      }
+    },
+    {
+      "key": "ts_s0970",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0970/ct.nii.gz",
+        "offset": 19985997409,
+        "compressed_size": 51423589,
+        "compress_type": 8,
+        "sha256": "24a5fc8981bea7b7a2dcc00b70bc5be8d8f509726ccee29b4c8f9416cd80240c"
+      },
+      "clavicula_left": {
+        "member": "s0970/segmentations/clavicula_left.nii.gz",
+        "offset": 20038231099,
+        "compressed_size": 5810,
+        "compress_type": 8,
+        "sha256": "1915dcd948aea391e4a90505d6b86f4b0a1804f393111415c3f389250eb932a6"
+      },
+      "clavicula_right": {
+        "member": "s0970/segmentations/clavicula_right.nii.gz",
+        "offset": 20038236980,
+        "compressed_size": 2192,
+        "compress_type": 8,
+        "sha256": "f6e2cd1dadd53703962b10320e77648383a048b423f868ef59716ab847081b28"
+      },
+      "skull": {
+        "member": "s0970/segmentations/skull.nii.gz",
+        "offset": 20038506156,
+        "compressed_size": 57326,
+        "compress_type": 8,
+        "sha256": "d3012bc59ad7d9a07592dabea54f9bf1ce8dffac2d5398bdf54c34e4c6a987e2"
+      }
+    },
+    {
+      "key": "ts_s1334",
+      "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+      "image": {
+        "member": "s1334/ct.nii.gz",
+        "offset": 12316164645,
+        "compressed_size": 27229186,
+        "compress_type": 8,
+        "sha256": "765bc3a7e92aff24da2445923544e6b2afe5da0836d2e8de001379f1690850b6"
+      },
+      "clavicula_left": {
+        "member": "s1334/segmentations/clavicula_left.nii.gz",
+        "offset": 12344380347,
+        "compressed_size": 6305,
+        "compress_type": 8,
+        "sha256": "7e2b82c4198e23bb7531c8ca6c6ac2b04305e37e73630397271c485e4086b071"
+      },
+      "clavicula_right": {
+        "member": "s1334/segmentations/clavicula_right.nii.gz",
+        "offset": 12344386723,
+        "compressed_size": 6293,
+        "compress_type": 8,
+        "sha256": "152c353b5b2e6f5167f72226eabffda5ad3df98e0d4d5a6c60d6e60cf1accdf8"
+      },
+      "skull": {
+        "member": "s1334/segmentations/skull.nii.gz",
+        "offset": 12344861224,
+        "compressed_size": 3507,
+        "compress_type": 8,
+        "sha256": "73579b8d6b53884b1ed544b887030049a84b866dd32941c76169a3cf672a17b7"
+      }
+    },
+    {
+      "key": "ts_s0923",
+      "study_type": "ct neck-thorax-abdomen-pelvis",
+      "image": {
+        "member": "s0923/ct.nii.gz",
+        "offset": 19883574735,
+        "compressed_size": 47641317,
+        "compress_type": 8,
+        "sha256": "547cc50e5cf2d0642e584c9e776c36d520afea21064dcc9db8d20a53f6eba3fe"
+      },
+      "clavicula_left": {
+        "member": "s0923/segmentations/clavicula_left.nii.gz",
+        "offset": 19932138142,
+        "compressed_size": 4710,
+        "compress_type": 8,
+        "sha256": "565cbfeee32c96fff53d565d4928a1a9434c944ac53a913134dfdbad3e08aeff"
+      },
+      "clavicula_right": {
+        "member": "s0923/segmentations/clavicula_right.nii.gz",
+        "offset": 19932142923,
+        "compressed_size": 4734,
+        "compress_type": 8,
+        "sha256": "9f6621c78c1e5c52108b36d66af5422ea47444da2b3309ea664d44b848214802"
+      },
+      "skull": {
+        "member": "s0923/segmentations/skull.nii.gz",
+        "offset": 19932550773,
+        "compressed_size": 20209,
+        "compress_type": 8,
+        "sha256": "13940d6526ade965527b28dbd6d29b78be5ff440a54d164f9bcc600acc4b9cc0"
+      }
+    },
+    {
+      "key": "ts_s0467",
+      "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+      "image": {
+        "member": "s0467/ct.nii.gz",
+        "offset": 9685591794,
+        "compressed_size": 54604003,
+        "compress_type": 8,
+        "sha256": "ac9d74fffa71131df93ad5e8679b4eee16da5cc7fba498d75753d33170202f59"
+      },
+      "clavicula_left": {
+        "member": "s0467/segmentations/clavicula_left.nii.gz",
+        "offset": 9741030097,
+        "compressed_size": 7595,
+        "compress_type": 8,
+        "sha256": "7fb4826bd80e9586caff07b006f26d13c28a8a3ef1f53b8708c98c3197791268"
+      },
+      "clavicula_right": {
+        "member": "s0467/segmentations/clavicula_right.nii.gz",
+        "offset": 9741037763,
+        "compressed_size": 6952,
+        "compress_type": 8,
+        "sha256": "ffc4a0f39f2378d09de3f9b483d0bf689bf6a065f835bc53642c7b38de3ac704"
+      },
+      "skull": {
+        "member": "s0467/segmentations/skull.nii.gz",
+        "offset": 9741514455,
+        "compressed_size": 13327,
+        "compress_type": 8,
+        "sha256": "68ebd99c093c5b65f695dcb1de14deed1a6bc2efa7483d2bf0545cb8de4328bc"
+      }
+    },
+    {
+      "key": "ts_s0657",
+      "study_type": "ct neck-thorax-abdomen-pelvis",
+      "image": {
+        "member": "s0657/ct.nii.gz",
+        "offset": 4741736639,
+        "compressed_size": 29110858,
+        "compress_type": 8,
+        "sha256": "357ac2aae65adfc18bf8c3df5847e135b9e310b196fa8aa9f6f47e3f115412fc"
+      },
+      "clavicula_left": {
+        "member": "s0657/segmentations/clavicula_left.nii.gz",
+        "offset": 4771958649,
+        "compressed_size": 6253,
+        "compress_type": 8,
+        "sha256": "f917e5100dcd7e581a72824959ed1f47e6e504a29c858dcb3a751c2c6793d992"
+      },
+      "clavicula_right": {
+        "member": "s0657/segmentations/clavicula_right.nii.gz",
+        "offset": 4771964973,
+        "compressed_size": 6667,
+        "compress_type": 8,
+        "sha256": "59e16e872a6d8302dbd8dd95dd5b87197ff48e310cea7a63af2a3e7d9745f374"
+      },
+      "skull": {
+        "member": "s0657/segmentations/skull.nii.gz",
+        "offset": 4772485990,
+        "compressed_size": 775,
+        "compress_type": 8,
+        "sha256": "f445f3c0c54bf168b67c1c7f2b1c41d761dcfbf4c2b3efdb19e350bf33fd2ec6"
+      }
+    },
+    {
+      "key": "ts_s0556",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s0556/ct.nii.gz",
+        "offset": 8089308287,
+        "compressed_size": 52531665,
+        "compress_type": 8,
+        "sha256": "7f3d3b5a151936415407471f383b52867d0b2577f707b4c2a17dc27a5118c1b5"
+      },
+      "clavicula_left": {
+        "member": "s0556/segmentations/clavicula_left.nii.gz",
+        "offset": 8142873074,
+        "compressed_size": 7194,
+        "compress_type": 8,
+        "sha256": "0fa9894bffdc9915beb551f46ce7c97a972301ea0ea75c25482718bae6efc909"
+      },
+      "clavicula_right": {
+        "member": "s0556/segmentations/clavicula_right.nii.gz",
+        "offset": 8142880339,
+        "compressed_size": 7489,
+        "compress_type": 8,
+        "sha256": "12055bdabf9a863ca3ccf37b23176421439a9db9565cd68bee9672d42ac1d502"
+      },
+      "skull": {
+        "member": "s0556/segmentations/skull.nii.gz",
+        "offset": 8143117896,
+        "compressed_size": 117234,
+        "compress_type": 8,
+        "sha256": "51040d2c21c6fda52b338398e684907e881db4467cdfdb017c03d15c793d2aab"
+      }
+    },
+    {
+      "key": "ts_s0931",
+      "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+      "image": {
+        "member": "s0931/ct.nii.gz",
+        "offset": 20571539151,
+        "compressed_size": 26098809,
+        "compress_type": 8,
+        "sha256": "eed990b661c46dcb9f13bcd9adf989730ea8c1192c3e1f3eeca1b9d4722d7293"
+      },
+      "clavicula_left": {
+        "member": "s0931/segmentations/clavicula_left.nii.gz",
+        "offset": 20598692715,
+        "compressed_size": 6237,
+        "compress_type": 8,
+        "sha256": "78447f12fa999500dcdfe73adde35da4a222abbfccaa16e4dfd2ecaaa97aef16"
+      },
+      "clavicula_right": {
+        "member": "s0931/segmentations/clavicula_right.nii.gz",
+        "offset": 20598699023,
+        "compressed_size": 6147,
+        "compress_type": 8,
+        "sha256": "2085402ad018671b2d6efe0b141f2935d9a325a084163ce8017721900a057b69"
+      },
+      "skull": {
+        "member": "s0931/segmentations/skull.nii.gz",
+        "offset": 20599171462,
+        "compressed_size": 4536,
+        "compress_type": 8,
+        "sha256": "7dbcdd959cb3175241c4c5a24adeb6c6d501c7e294f26a61d92da8c682f99350"
+      }
+    },
+    {
+      "key": "ts_s1143",
+      "study_type": "ct neck-thorax-abdomen-pelvis",
+      "image": {
+        "member": "s1143/ct.nii.gz",
+        "offset": 15814553753,
+        "compressed_size": 39564947,
+        "compress_type": 8,
+        "sha256": "0b6932dabd59467d627eee983c2d31ced47cb45f082de73eca9c31f92cd0a780"
+      },
+      "clavicula_left": {
+        "member": "s1143/segmentations/clavicula_left.nii.gz",
+        "offset": 15855168552,
+        "compressed_size": 6314,
+        "compress_type": 8,
+        "sha256": "16badf324c8ed196803ce7f1117875d4911c2f630fbc6c075740a03ae3f8dc9e"
+      },
+      "clavicula_right": {
+        "member": "s1143/segmentations/clavicula_right.nii.gz",
+        "offset": 15855174937,
+        "compressed_size": 6891,
+        "compress_type": 8,
+        "sha256": "277a11d4763fdaa0d223b87f126ca2f89c80f342986f386e1d8a743a5f5aecaa"
+      },
+      "skull": {
+        "member": "s1143/segmentations/skull.nii.gz",
+        "offset": 15855658590,
+        "compressed_size": 672,
+        "compress_type": 8,
+        "sha256": "1dc119bf618a9cec2c52088369c0b1e67a3f53b5e5b729c0de002ffa5b9cf828"
+      }
+    },
+    {
+      "key": "ts_s1062",
+      "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+      "image": {
+        "member": "s1062/ct.nii.gz",
+        "offset": 18316770292,
+        "compressed_size": 30564464,
+        "compress_type": 8,
+        "sha256": "7801d8de3f67468054c1606f4084ab6a193620ffb094f839f6c57ef042602523"
+      },
+      "clavicula_left": {
+        "member": "s1062/segmentations/clavicula_left.nii.gz",
+        "offset": 18348351328,
+        "compressed_size": 6099,
+        "compress_type": 8,
+        "sha256": "b9871d5d9d1dff9b0c39626c2209d34d701df66e7ba4e0a7771dd43c0b8cac53"
+      },
+      "clavicula_right": {
+        "member": "s1062/segmentations/clavicula_right.nii.gz",
+        "offset": 18348357498,
+        "compressed_size": 5682,
+        "compress_type": 8,
+        "sha256": "20374f17c0aa16518c47fd6ec470e4e17d2bbf561b871ac619055e8594e376bb"
+      },
+      "skull": {
+        "member": "s1062/segmentations/skull.nii.gz",
+        "offset": 18348810184,
+        "compressed_size": 6207,
+        "compress_type": 8,
+        "sha256": "2176b3c64e666e895db5420f309b03d6573f16eae8a0fbcc2b9cd5dc6d888268"
+      }
+    },
+    {
+      "key": "ts_s1016",
+      "study_type": "ct polytrauma",
+      "image": {
+        "member": "s1016/ct.nii.gz",
+        "offset": 18996057541,
+        "compressed_size": 58837516,
+        "compress_type": 8,
+        "sha256": "685acb4edb42e7efe68dfafb1fc4429ad986fb23115aabe2a4ccfb84c9566989"
+      },
+      "clavicula_left": {
+        "member": "s1016/segmentations/clavicula_left.nii.gz",
+        "offset": 19055969860,
+        "compressed_size": 5340,
+        "compress_type": 8,
+        "sha256": "39934c3674c1e8ef2281882790f53e26c6d5e9ce73729e5e262844a8947f35cc"
+      },
+      "clavicula_right": {
+        "member": "s1016/segmentations/clavicula_right.nii.gz",
+        "offset": 19055975271,
+        "compressed_size": 7057,
+        "compress_type": 8,
+        "sha256": "d23098d0126971b9125eceedbcf1025fc31cacc607c8f3ddef3a8f1502966829"
+      },
+      "skull": {
+        "member": "s1016/segmentations/skull.nii.gz",
+        "offset": 19056536132,
+        "compressed_size": 887,
+        "compress_type": 8,
+        "sha256": "e94b154c616d95bad650f1a46c2e43d737a1d92bdb6526946fb5df69c8fb7656"
+      }
+    },
+    {
+      "key": "ts_s0334",
+      "study_type": "ct neck-thorax-abdomen-pelvis",
+      "image": {
+        "member": "s0334/ct.nii.gz",
+        "offset": 11658912842,
+        "compressed_size": 46222938,
+        "compress_type": 8,
+        "sha256": "9af2bb26618fb5dbbdd1a9b9a70f50948e9f3bac5c22e5d2af792a7a5ac469bf"
+      },
+      "clavicula_left": {
+        "member": "s0334/segmentations/clavicula_left.nii.gz",
+        "offset": 11706034535,
+        "compressed_size": 8144,
+        "compress_type": 8,
+        "sha256": "7480fb8e1bec6a0398792b5cd91f74e17ed01235ec54946bb936bffd4d25e45a"
+      },
+      "clavicula_right": {
+        "member": "s0334/segmentations/clavicula_right.nii.gz",
+        "offset": 11706042750,
+        "compressed_size": 7480,
+        "compress_type": 8,
+        "sha256": "52822af7c1ccebbfdabc28e37421f44ce58ae7b1b9c14a4e64426edaf815176c"
+      },
+      "skull": {
+        "member": "s0334/segmentations/skull.nii.gz",
+        "offset": 11706510740,
+        "compressed_size": 735,
+        "compress_type": 8,
+        "sha256": "12ab4f063c3ca70518b254f446435121176900f0bd97182babec4afe37b58618"
+      }
+    },
+    {
+      "key": "ts_s0804",
+      "study_type": "ct angiography neck-thx-abd-pelvis-leg",
+      "image": {
+        "member": "s0804/ct.nii.gz",
+        "offset": 22594341818,
+        "compressed_size": 29455840,
+        "compress_type": 8,
+        "sha256": "4b67c13dd491a7e8de6b8b24e2cfa96f44b31468117632d056df85d4de95f888"
+      },
+      "clavicula_left": {
+        "member": "s0804/segmentations/clavicula_left.nii.gz",
+        "offset": 22624682012,
+        "compressed_size": 5101,
+        "compress_type": 8,
+        "sha256": "62b4e2eb126b775c273de9191e90b8d581195ba8368ac28205b551096c6e7d6e"
+      },
+      "clavicula_right": {
+        "member": "s0804/segmentations/clavicula_right.nii.gz",
+        "offset": 22624687184,
+        "compressed_size": 4752,
+        "compress_type": 8,
+        "sha256": "a4840969b6f349b8e633199ff8a13a6a2e03d35d41ae78069e1b02cf1367733e"
+      },
+      "skull": {
+        "member": "s0804/segmentations/skull.nii.gz",
+        "offset": 22625110541,
+        "compressed_size": 5113,
+        "compress_type": 8,
+        "sha256": "2f48edee25ec2b90a5c1efec29655d3773509713299e88488ceabc395b17ad1a"
+      }
+    }
+  ]
+}
